@@ -51,7 +51,8 @@
 | **TB2** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059)<br>|  <br>- |
 
 ## Project Report Collaboration Insights
-URL de Organización de GITHUB del equipo _______:<br> URL de Repositorio del Project Report:
+URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web: <br> 
+URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
 
 <br>
 
@@ -147,58 +148,6 @@ URL de Organización de GITHUB del equipo _______:<br> URL de Repositorio del Pr
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 - [Anexos](#anexos)
-
-
-
-El curso contribuye al cumplimiento del Student Outcome ABET:<br><br>
-**ABET – EAC - Student Outcome 5**<br>
-**Criterio:** La capacidad de funcionar efectivamente en un
-equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
-colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.<br><br>
-
-<table >
-  <thead>
-    <tr>
-      <th colspan="3"><b>Criterio específico</b></th>
-      <th colspan="3"><b>Acciones realizadas</b></th>
-      <th colspan="3"><b>Conclusiones</b></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-  <td colspan="3">Trabaja en equipo para proporcionar liderazgo en forma conjunta.</td>
-      <td colspan="3" align = "justify">
-      <h3>Heredia Hoyos, Danitza Ivonne</h3>
-        <b>AV1</b><p></p>
-      <h3>Montes Zamora, Edgar Alexander Mauricio</h3>
-        <b>AV1</b><p></p>
-      <h3>Lozano Leon, Richard Enrique</h3>
-        <b>AV1</b><p></p>
-      <h3>Faustino Hurtado, Anghelo</h3>
-        <b>AV1</b><p></p>
-      <h3>Garcia Villanueva, Leonardo Rafael</h3>
-        <b>AV1</b><p></p>
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3">Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-      <td colspan="3" align = "justify">
-      <h3>Heredia Hoyos, Danitza Ivonne</h3>
-        <b>AV1</b><p></p>
-      <h3>Montes Zamora, Edgar Alexander Mauricio</h3>
-        <b>AV1</b><p></p>
-      <h3>Lozano Leon, Richard Enrique</h3>
-        <b>AV1</b><p></p>
-      <h3>Faustino Hurtado, Anghelo</h3>
-        <b>AV1</b><p></p>
-      <h3>Garcia Villanueva, Leonardo Rafael</h3>
-        <b>AV1</b><p></p>
-      <br>
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 
 
