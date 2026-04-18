@@ -51,7 +51,7 @@
 | **TB2** |  | - Danitza Ivonne Heredia Hoyos (U201910803)<br>- Edgar Alexander Mauricio Montes Zamora (U20241E126)<br>- Richard Enrique Lozano Leon (U20241D990)<br>- Anghelo Faustino Hurtado (U20241B331)<br>- Leonardo Rafael Garcia Villanueva (U20231H059)<br>|  <br>- |
 
 ## Project Report Collaboration Insights
-URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web: <br> 
+URL de Organización de GITHUB del equipo https://github.com/SENIT-Aplicaciones-Web <br> 
 URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web/SENIT_Final-Report <br>
 
 <br>
