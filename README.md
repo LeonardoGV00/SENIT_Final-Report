@@ -597,7 +597,7 @@ En esta sección se abordará la investigación en base a la información que se
 
 ### 2.2.1 Diseño de entrevistas
 
-Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los huéspedes o clientes frecuentes. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, los canales digitales de interacción, el uso de tecnología, los objetivos del usuario y las principales frustraciones dentro de la experiencia de hospedaje.
+Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los dueños y propietarios de estos establecimientos. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, el uso de tecnología, los canales de interacción, los objetivos del negocio y las principales frustraciones relacionadas con la operación y supervisión del hospedaje.
 
 ---
 
@@ -612,6 +612,7 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 - ¿En qué tipo de establecimiento trabaja actualmente? (hotel, motel, hostal u otro)
 - ¿Cuántos años de experiencia tiene en el sector hotelero o de hospedaje?
 - ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia en su trabajo?
+- ¿Qué tan familiarizado se considera con el uso de sistemas digitales para la gestión de hospedajes?
 - ¿Qué herramientas, sistemas o canales utilizan actualmente para gestionar reservas, habitaciones y pagos? (Excel, cuaderno, WhatsApp, llamadas, sistema interno, etc.)
 
 ### Preguntas principales
@@ -634,35 +635,37 @@ Se han diseñado dos bloques de preguntas: uno dirigido al personal administrati
 
 ---
 
-## Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+## Segmento 2: Dueños y propietarios de hoteles y moteles
 
 ### Preguntas complementarias
 
 - ¿Cuál es su nombre completo?
 - ¿Cuántos años tiene?
-- ¿En qué distrito o ciudad reside actualmente?
-- ¿Con qué frecuencia suele hospedarse en hoteles, moteles u hostales?
-- ¿Cuál suele ser el motivo principal de su hospedaje? (descanso, turismo, trabajo, viaje ocasional, etc.)
-- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia para buscar o reservar hospedajes?
-- ¿Qué medios o canales suele usar para reservar hospedajes? (página web, app, llamada, WhatsApp, redes sociales, atención presencial, etc.)
+- ¿En qué distrito o ciudad se ubica su establecimiento?
+- ¿Qué tipo de establecimiento posee o administra? (hotel, motel, hostal u otro)
+- ¿Cuál es su ocupación o rol principal dentro del negocio?
+- ¿Cuántos años lleva gestionando o siendo propietario de este negocio?
+- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia para supervisar o gestionar su establecimiento?
+- ¿Qué herramientas, sistemas o canales utiliza actualmente para controlar reservas, ingresos, habitaciones y personal? (Excel, cuaderno, llamadas, WhatsApp, sistema interno, etc.)
+- ¿Qué tan familiarizado se considera con el uso de herramientas digitales para supervisar o administrar su establecimiento?
 
 ### Preguntas principales
 
-- ¿Cómo fue el proceso de reserva en el último hospedaje que utilizó?
-- ¿Tuvo algún problema relacionado con disponibilidad, sobre-reservas o errores en su reserva?
-- ¿Qué tan rápido y sencillo fue el proceso de check-in y check-out?
-- ¿Cómo calificaría la comunicación con el personal del establecimiento durante su atención?
-- ¿Alguna vez ha tenido problemas con pagos, facturación o comprobantes en un hospedaje?
-- ¿Qué tan satisfecho quedó con la limpieza, organización y estado general de la habitación?
-- ¿Recibió el servicio que esperaba al momento de hospedarse? ¿Qué sintió que faltó?
-- ¿Cuál fue la principal frustración que tuvo durante su experiencia de reserva, llegada o estadía?
-- ¿Cuál es el principal objetivo que busca cumplir cuando reserva un hospedaje? (rapidez, comodidad, privacidad, confianza, precio, etc.)
-- ¿Qué aspecto de la experiencia mejoraría primero: rapidez, atención, comodidad, información o proceso de reserva?
-- ¿Qué tanto le gustaría poder realizar un pre check-in o registro anticipado desde su casa o celular?
-- Si el establecimiento utilizara un sistema digital para reservar y registrarse más rápido, ¿le resultaría más atractivo? ¿Por qué?
-- ¿Qué información le gustaría ver clara antes de confirmar una reserva? (precio, tipo de habitación, disponibilidad, servicios incluidos, horarios, etc.)
-- ¿Qué tan importante es para usted recibir confirmaciones inmediatas de su reserva y pago?
-- ¿Qué canal de atención o reserva le resulta más cómodo y confiable cuando busca hospedaje?
+- ¿Cómo supervisa actualmente las reservas, la disponibilidad de habitaciones y los procesos de check-in/check-out en su establecimiento?
+- ¿Qué problemas considera más frecuentes en la operación diaria de su negocio?
+- ¿Cómo controla actualmente los pagos, ingresos, comprobantes y movimientos generales del establecimiento?
+- ¿Con qué frecuencia identifica errores en reservas, descoordinación del personal o pérdidas por procesos manuales?
+- ¿Qué tan fácil o difícil le resulta obtener una visión rápida del estado general de su negocio, por ejemplo ocupación, ingresos o rendimiento del personal?
+- ¿Cómo verifica que las operaciones del establecimiento se estén desarrollando correctamente cuando usted no está presente?
+- ¿Qué aspectos del negocio considera más importantes para mantener la rentabilidad del hospedaje?
+- ¿Ha utilizado antes algún sistema digital para administrar su negocio? ¿Cómo fue esa experiencia?
+- ¿Cuál es la principal frustración que enfrenta como dueño o propietario al momento de supervisar la operación del hospedaje?
+- ¿Cuál es el principal objetivo que busca cumplir al invertir en mejoras para su negocio? (mayor control, reducción de errores, mejor atención, más ingresos, etc.)
+- Si tuviera acceso a un sistema que le mostrara en tiempo real reservas, habitaciones, pagos y estado operativo, ¿qué decisiones podría tomar más rápido?
+- ¿Qué áreas del negocio le gustaría controlar mejor mediante una solución tecnológica?
+- ¿Qué tan importante considera contar con reportes rápidos y claros sobre ocupación, ingresos y desempeño del establecimiento?
+- ¿Qué características mínimas debería tener un sistema para que usted considere implementarlo en su negocio?
+- Si pudiera mejorar un aspecto del funcionamiento de su hospedaje con apoyo tecnológico, ¿cuál sería y por qué?
 
 ### 2.2.2 Registro de entrevistas
 
