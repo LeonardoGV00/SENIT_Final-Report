@@ -436,18 +436,18 @@ Los segmentos objetivo identificados para nuestra plataforma Senit, orientada a 
     Ubicación: Hoteles y moteles del Perú, principalmente en zonas urbanas.<br>
     Entorno: Negocios de hospedaje que buscan modernizar su operación y reducir errores derivados de procesos manuales.<br><br>
 
-+ **S2: Huéspedes y clientes frecuentes de hoteles y moteles**<br>
++ **S2: Dueños y propietarios de hoteles y moteles**<br>
   + **Características demográficas:**<br>
-    Edad: 18 a 55 años.<br>
+    Edad: 30 a 65 años.<br>
     Género: Variado.<br>
-    Perfil: Personas que se hospedan de forma ocasional o frecuente por motivos personales, turísticos o de descanso.<br>
-    Comportamiento: Suelen valorar la rapidez, comodidad y confiabilidad durante el proceso de reserva y registro.<br>
-    Tecnología: Uso frecuente de plataformas web y aplicaciones móviles para reservar servicios.<br>
-    Necesidad: Reducir tiempos de espera, evitar errores en reservas y contar con procesos de check-in/check-out más ágiles y sencillos.<br>
+    Perfil: Propietarios, inversionistas o responsables directos del negocio de hospedaje.<br>
+    Comportamiento: Suelen enfocarse en la rentabilidad, el control de operaciones y la reducción de errores o pérdidas dentro del establecimiento.<br>
+    Tecnología: Uso básico o intermedio de herramientas digitales, con interés en soluciones que les permitan supervisar mejor su negocio sin depender completamente de procesos manuales.<br>
+    Necesidad: Mejorar la eficiencia operativa, tener mayor control sobre reservas, habitaciones, ingresos y personal, y contar con una solución que ayude a modernizar la gestión del hospedaje.<br>
 
   + **Características geográficas:**<br>
-    Ubicación: Usuarios de hoteles y moteles en ciudades del Perú.<br>
-    Entorno: Contextos urbanos donde los clientes esperan experiencias de atención rápidas, prácticas y digitalizadas.<br><br>
+    Ubicación: Dueños y propietarios de hoteles y moteles en ciudades del Perú, principalmente en zonas urbanas y comerciales.<br>
+    Entorno: Negocios de hospedaje que buscan crecer, optimizar sus recursos y mantenerse competitivos frente a otras alternativas del sector.<br><br>
 
 # Capítulo II: Requirements Elicitation & Analysis
 
