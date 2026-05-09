@@ -118,6 +118,7 @@
     </tr>
   </tbody>
 </table>
+
 <hr>
 
 ## Project Report Collaboration Insights
@@ -131,7 +132,7 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
 <p><strong>ABET – EAC - Student Outcome 5</strong></p>
 
 <p>
-  Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo,
+  <em>Criterio:</em> La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo,
   crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 </p>
 
