@@ -768,8 +768,6 @@ En base al análisis previo, se definen las siguientes estrategias para ganar cu
 
 ### 2.2.2 Registro de entrevistas
 
-#### Segmento 1: Personal Administrativo y operativo de hoteles y moteles
-
 Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los dueños y propietarios de estos establecimientos. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, el uso de tecnología, los canales de interacción, los objetivos del negocio y las principales frustraciones relacionadas con la operación y supervisión del hospedaje.
 
 ---
@@ -863,24 +861,28 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 </div>
 <br>
 
-#### Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
 <p align="center">
-  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Ghorghet Tuncar Vila"/>
-  <br/><i>Evidencia de entrevista: Ghorghet Tuncar Vila</i>
+  <img src="assets/interviews/interview_segment_2_n1.png" alt="Entrevista con Luis Alberto Noriega Ríos"/>
+  <br/><i>Evidencia de entrevista: Luis Alberto Noriega Ríos</i>
 </p>
 
-- **Nombre:** Ghorghet Tuncar Vila
-- **Edad:** 20 años
-- **Residencia:** Villa María del Triunfo
-- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
-- **Duracion:** 08:59
-- **Timing:** 15:37 - 23:27
+- **Nombre:** Luis Alberto Noriega Ríos
+- **Edad:** 56
+- **Residencia:** Santa, Áncash
+- **Enlace de la entrevista:** 
+- **Duracion:** 20:00
+- **Timing:** 0:00 - [Completar]
 
 **Resumen de la entrevista:**
 <div align="justify">
-La entrevista fue realizada a Ghorghet Tuncar Vila, joven de 20 años que suele hospedarse en hoteles aproximadamente una vez al mes. Para buscar hospedajes utiliza principalmente su celular o laptop, revisando primero redes sociales como Facebook y TikTok, y luego coordinando por WhatsApp. Durante la entrevista comentó que en su última experiencia tuvo problemas porque la información del establecimiento no era clara respecto a horarios, servicios y disponibilidad, lo que volvió más lento el proceso de reserva. También señaló dificultades en el check-in y check-out debido a la poca comunicación del anfitrión, además de inconvenientes con los métodos de pago por no saber con anticipación si aceptaban efectivo, tarjeta o billeteras digitales. A pesar de ello, indicó que la habitación sí se encontraba limpia y ordenada. Finalmente, destacó que valora mucho el precio, la comodidad y la privacidad, y que le gustaría contar con una plataforma más clara y eficiente que le permita ver información importante, recibir confirmaciones rápidas y realizar un pre check-in sin depender únicamente de WhatsApp.
+La entrevista fue realizada a Luis Alberto Noriega Ríos, propietario de un motel ubicado en Santa, Áncash, con aproximadamente 12 años de experiencia en la gestión de su establecimiento. Durante la conversación comentó que actualmente supervisa su negocio de forma presencial y también mediante cámaras de seguridad, revisando cuadernos, registros y apoyándose en su personal, un administrador y un asesor contable. Señaló que uno de los problemas que más le preocupa es la seguridad, debido a situaciones relacionadas con identidades falsas, documentos falsos y la necesidad de seguir modernizando su sistema de vigilancia.
+
+Asimismo, indicó que no le resulta fácil tener una visión rápida y completa del estado general del negocio, especialmente porque también realiza otras actividades y no puede estar presente todo el tiempo en el establecimiento. En ese sentido, mencionó que le gustaría contar con una solución tecnológica que le permita controlar mejor áreas como la atención al cliente, la seguridad, los registros y la parte administrativa en general. También señaló que, aunque tiene un conocimiento regular sobre herramientas digitales, considera importante que cualquier sistema sea entendible y fácil de usar para el personal que trabaja de manera permanente en el hospedaje.
+
+Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negocio considera clave brindar una buena atención, ofrecer habitaciones limpias y adecuadas, y garantizar seguridad a los huéspedes y sus vehículos. Desde su perspectiva, una solución digital podría ayudarle a dinamizar la gestión del establecimiento, mejorar el control operativo y facilitar la toma de decisiones.
 </div>
 <br>
 
@@ -918,9 +920,6 @@ La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele ho
 **Resumen de la entrevista:**
 
 Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus hábitos de alojamiento y experiencias en hoteles. La entrevistada explica que prefiere realizar sus reservas digitalmente mediante plataformas como Booking o WhatsApp, priorizando siempre la limpieza y la privacidad. Aunque se muestra satisfecha con los servicios generales, señala que el proceso de registro presencial suele ser lento debido a la gestión de documentos de identidad. Por esta razón, manifiesta un fuerte interés en la implementación de sistemas de registro anticipado que agilicen su ingreso. Finalmente, la fuente destaca la importancia de recibir confirmaciones inmediatas y transparencia total en los costos y servicios antes de concretar una estadía.
-
-
-
 
 ### 2.2.3 Análisis de entrevistas
 
