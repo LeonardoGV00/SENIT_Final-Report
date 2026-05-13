@@ -616,24 +616,24 @@ A continuación, se presenta el *Competitive Analysis Landscape*, donde se contr
       <td colspan="4">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.<br><br><strong>Objetivo:</strong> Identificar las brechas de servicio y las debilidades de los sistemas actuales para posicionar a Senit como la solución más eficiente en control de tiempos, cumplimiento tributario y facilidad de uso para el mercado peruano.</td>
     </tr>
     <tr align="center">
-      <td colspan="2" align="left"><strong>(En la cabecera colocar por cada competidor nombre y logo)</strong></td>
+      <td colspan="2" align="left"><strong></strong></td>
       <td>
-        <strong>Su startup:</strong><br><br>
+        <strong></strong><br><br>
         <img src="assets/SENIT_logo.webp" alt="Senit Logo" width="90"><br>
         <strong>Senit</strong>
       </td>
       <td>
-        <strong>Competidor 1:</strong><br><br>
+        <strong></strong><br><br>
         <img src="assets/cloudbeds-logo.png" alt="Cloudbeds Logo" width="90"><br>
         <strong>Cloudbeds</strong>
       </td>
       <td>
-        <strong>Competidor 2:</strong><br><br>
+        <strong></strong><br><br>
         <img src="assets/wubook-logo.png" alt="WuBook Logo" width="90"><br>
         <strong>WuBook</strong>
       </td>
       <td>
-        <strong>Competidor 3:</strong><br><br>
+        <strong></strong><br><br>
         <img src="assets/little-hotelier-logo.png" alt="Little Hotelier Logo" width="90"><br>
         <strong>Little Hotelier</strong>
       </td>
@@ -678,10 +678,10 @@ A continuación, se presenta el *Competitive Analysis Landscape*, donde se contr
     </tr>
     <tr>
       <td><strong>Precios & Costos</strong></td>
-      <td>Suscripción mensual económica y escalable en Soles.</td>
-      <td>Costos elevados basados en comisiones y mensualidades en Dólares.</td>
-      <td>Precios moderados con estructura de cobro europea (Euros).</td>
-      <td>Costo fijo moderado en Dólares por propiedad.</td>
+      <td>Suscripción en Soles:<br>- <strong>Plan Básico:</strong> S/. 29.99/mes<br>- <strong>Plan Pro:</strong> S/. 49.99/mes<br>- <strong>Plan Personalizado</strong></td>
+      <td><strong>Desde $108.00 USD/mes</strong> (aprox. S/. 400). Costos se elevan según módulos y cobros por comisiones.</td>
+      <td><strong>Desde €24.00 EUR/mes</strong> (aprox. S/. 100). Cobro modular y estructura europea.</td>
+      <td><strong>Desde $89.00 USD/mes</strong> (aprox. S/. 330) para su plan estándar de administración.</td>
     </tr>
     <tr>
       <td><strong>Canales de distribución (Web y/o Móvil)</strong></td>
