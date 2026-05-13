@@ -1866,6 +1866,26 @@ Por ello, la especificación de los endpoints, de los verbos HTTP, de los parám
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+Durante el Sprint 2, el equipo mantuvo una dinámica de trabajo colaborativa orientada principalmente al desarrollo de la Web Application de Senit, sin dejar de lado la actualización del reporte y la continuidad del trabajo documental del proyecto. En esta iteración, la implementación se desarrolló de manera distribuida, permitiendo que los integrantes aporten desde distintos frentes, como el diseño e implementación de vistas, la organización del sprint, la adaptación de contenido y la documentación del avance realizado.
+
+GitHub continuó siendo el principal medio de colaboración y control de versiones, ya que permitió registrar cambios, mantener trazabilidad sobre los avances y evidenciar la participación de los miembros del equipo en los repositorios trabajados durante el sprint. A través de los commits y analíticos de contribución, se puede observar la participación de los integrantes tanto en el reporte del proyecto como en la implementación del producto.
+
+Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en los recursos asociados al desarrollo visual y funcional de la solución, estas evidencias permiten identificar la continuidad del trabajo colaborativo del equipo y la forma en que se fueron organizando los aportes dentro del Sprint 2.
+
+<p align="center">
+  <img src="assets/Team 1.png" alt="Commits realizados en el repositorio del Final Report durante el Sprint 2" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio del Final Report durante el Sprint 2.</i>
+</p>
+
+<p align="center">
+  <img src="assets/Team 2.png" alt="Commits realizados en el repositorio de la landing page durante el Sprint 2" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio de la landing page durante el Sprint 2.</i>
+</p>
+
+
 ---
 # Conclusiones
 **Conclusiones**
