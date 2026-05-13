@@ -172,7 +172,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
         <strong>AV 1:</strong> Participé en el desarrollo de componentes clave como el análisis y estructuración de información del sistema, manteniendo comunicación constante con el equipo y adaptando mis avances según los requerimientos del proyecto para asegurar coherencia con el trabajo grupal.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Durante esta etapa, reforcé mi capacidad de escucha activa y adaptabilidad, participando en las reuniones de coordinación para alinear las correcciones necesarias. Fomenté un entorno de apoyo mutuo al intercambiar retroalimentación constructiva con mis compañeros, lo que nos permitió unificar criterios técnicos y asegurar que las mejoras se integraran de manera fluida y coherente en el trabajo final.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
@@ -204,7 +204,7 @@ Entrega TB1: Para este avance se envió al equipo otro documento de asignación 
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
         <strong>AV 1:</strong> Planifiqué mis entregables dividiéndolos en hitos específicos, lo que me permitió cumplir con los plazos y adaptar mi trabajo según el feedback del equipo.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Reestructuré mi organización personal para responder de manera ágil a las observaciones recibidas, priorizando las tareas críticas para evitar cuellos de botella en la integración grupal. Al mantener una planificación basada en metas a corto plazo, logré gestionar mi tiempo de forma eficiente, cumpliendo puntualmente con los plazos internos acordados y facilitando el avance continuo del equipo.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
