@@ -1435,7 +1435,7 @@ Se han diseñado sistemas de navegación distintos para la cara pública y la he
 RECEPCIONISTA: 
 
 <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="600"/>
+  <img src="/assets/webApp/mockups_web/receptionist/SeccionInicial.png" alt="Inicio" width="600"/>
 </p>
 
 <p align="center">
@@ -1446,8 +1446,8 @@ RECEPCIONISTA:
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Dashboard%20de%20Recepción.png" alt="Dashboard" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Configuración.png" alt="Configuracion" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/DashboardRecepcion.png" alt="Dashboard" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/Configuracion.png" alt="Configuracion" width="45%"/>
 </p>
 
 <p align="center">
@@ -1459,27 +1459,27 @@ RECEPCIONISTA:
 <p align="center">
  <p align="center">
   <img src="/assets/webApp/mockups_web/receptionist/Reservas.png" alt="Reservas" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20reservas.png" alt="RegistroR" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/RegistroReservas.png" alt="RegistroR" width="45%"/>
 </p>
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Lista%20de%20estadias.png" alt="VistaHab" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Registro%20de%20estadia%20(Check%20in).png" alt="RegistroEst" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/ListaEstadias.png" alt="ListaEst" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/RegistroEstadia(Check%20in).png" alt="RegistroEst" width="45%"/>
 </p>
 
 <p align="center">
  <p align="center">
-  <img src="/assets/webApp/mockups_web/receptionist/Detalle%20de%20estadia.png" alt="DetalleEstadia" width="45%"/>
-  <img src="/assets/webApp/mockups_web/receptionist/Vista%20de%20habitaciones.png" alt="VistaHab" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/DetalleEstadia.png" alt="DetalleEstadia" width="45%"/>
+  <img src="/assets/webApp/mockups_web/receptionist/VistaHabitaciones.png" alt="VistaHab" width="45%"/>
 </p>
 
 ADMIN: 
 
 <p align="center">
-  <img src="/assets/webApp/mockups_web/admin/Dashboard%20de%20supervision.png" alt="DashboardSup" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/Gestión%20del%20hotel.png" alt="GestionHotel" width="600"/>
-<img src="/assets/webApp/mockups_web/admin/Registro%20de%20habitaciones.png" alt="RegistroHab" width="600"/>
+  <img src="/assets/webApp/mockups_web/admin/DashboardSupervision.png" alt="DashboardSup" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/GestionHotel.png" alt="GestionHotel" width="600"/>
+<img src="/assets/webApp/mockups_web/admin/RegistroHabitaciones.png" alt="RegistroHab" width="600"/>
 </p>
 
 ### 4.4.4. Web Applications User Flow Diagrams.
