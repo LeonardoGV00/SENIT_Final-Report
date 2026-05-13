@@ -901,7 +901,21 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 
 Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
 
-### 2.2.3 Análisis de entrevistas
+### 2.2. Análisis de entrevistas
+
+El análisis detallado de las interacciones con nuestro público objetivo revela patrones, necesidades y puntos de dolor que validan la urgencia de implementar **Senit** en el mercado. A continuación, se presenta la síntesis de hallazgos por cada segmento:
+
+#### Segmento 1: Personal administrativo y operativo de hoteles y moteles
+La gestión de recepción y gerencia de turno evidencia una dependencia crítica de procesos manuales y canales de comunicación no oficiales. Aunque existen establecimientos que intentan digitalizarse, la gran mayoría de la operación diaria se sostiene en cuadernos, hojas de Excel y grupos de WhatsApp, generando los siguientes cuellos de botella:
+* **Riesgo de sobreocupación:** El registro manual de reservas desde distintos canales (redes sociales, llamadas) ocasiona cruces de horarios y asignaciones dobles (doble reserva) debido a la desorganización de personal nuevo o inexperto.
+* **Descoordinación con Housekeeping:** La comunicación del estado de las habitaciones (limpia/sucia) a través de WhatsApp es altamente ineficiente. Los mensajes suelen perderse entre el flujo de trabajo, provocando que recepción asigne habitaciones que aún no están listas, lo que genera largas esperas y quejas en el mostrador.
+* **Demoras en facturación y seguridad:** El ingreso manual de datos al portal de la SUNAT para emitir comprobantes ralentiza significativamente el proceso de check-out. Adicionalmente, el personal requiere canales centralizados y seguros para manejar datos sensibles de los huéspedes, evitando la informalidad de aplicaciones de mensajería externa.
+
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
+Desde la perspectiva de los inversionistas y gerentes propietarios, la mayor frustración radica en la **pérdida de control operativo en tiempo real**. Al no estar presentes físicamente durante toda la jornada, recurren a herramientas fragmentadas como cámaras de seguridad, visitas interdiarias o revisión de carpetas compartidas (Dropbox) para intentar medir la rentabilidad. Los hallazgos clave incluyen:
+* **Falta de visibilidad instantánea:** Los propietarios necesitan conocer la ocupación real al instante para aplicar estrategias de marketing y precios dinámicos (ej. reducir las tarifas en horas de baja afluencia para no perder ingresos).
+* **Vulnerabilidad ante factores externos:** Existen fugas de ingresos por situaciones no controladas desde el sistema, como el desvío de clientes con reservas por parte de transportistas locales, lo que deja habitaciones bloqueadas innecesariamente.
+* **Necesidad de supervisión remota y amigable:** Debido a que muchos propietarios pertenecen a una generación de migrantes digitales, requieren que la solución tecnológica sea visual, práctica y con una curva de aprendizaje mínima. Buscan un mapa interactivo o panel de control que les permita supervisar el rendimiento, el cuadre de caja y la seguridad del establecimiento desde su celular sin depender netamente de los reportes verbales de su personal.
 
 ## 2.3 Needfinding
 
