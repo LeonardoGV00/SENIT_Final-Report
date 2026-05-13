@@ -1993,15 +1993,6 @@ https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead
 
 Durante este sprint, el equipo se enfocó en el desarrollo de la primera base funcional de la Web Application de Senit, priorizando el módulo operativo del sistema. En esta iteración, los avances estuvieron relacionados con la visualización de habitaciones, el flujo de check-in por horas, la consulta de detalles de estadía, el registro de check-out, los filtros por estado y la configuración inicial del cambio de idioma dentro de la aplicación.
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-|------------|--------|-----------|----------------|---------------------|--------------------|
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
-
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
