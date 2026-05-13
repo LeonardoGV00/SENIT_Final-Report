@@ -160,7 +160,7 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
         <strong>AV 1:</strong> Durante esta etapa aporté en la definición de los segmentos objetivo, el diseño de entrevistas, el lenguaje ubicuo y parte de la documentación del Sprint 1, procurando que estos elementos mantengan coherencia entre sí y con el enfoque general de Senit. Además de elaborar contenido, coordiné con mis compañeros para ajustar información, unificar criterios y conectar mejor las necesidades del negocio con los artefactos del proyecto, contribuyendo así a un trabajo más integrado dentro del equipo.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Durante esta etapa contribuí en la revisión y ajuste de secciones clave del proyecto, como los segmentos objetivo, el diseño de entrevistas, el product backlog y parte de la documentación de los sprints. Mi aporte no se limitó a redactar contenido, sino también a coordinar con el equipo para alinear los cambios con la retroalimentación recibida, mantener coherencia entre las distintas secciones y evitar contradicciones dentro del avance general. De esta manera, participé activamente en un trabajo conjunto donde el liderazgo se dio de forma compartida, apoyando la integración y mejora del proyecto.
         <br>
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
@@ -192,7 +192,7 @@ URL de Repositorio del Project Report: https://github.com/SENIT-Aplicaciones-Web
         <br>
         <strong>- Lozano Leon, Richard Enrique:</strong><br>
         <strong>AV 1:</strong> Organicé mi avance en función de las secciones que me correspondían, distribuyendo el trabajo entre la definición de segmentos, el diseño de entrevistas, el lenguaje ubicuo y la documentación inicial del Sprint 1. Para cumplir con la entrega, fui avanzando por partes y mantuve comunicación con el equipo para validar que mi aporte esté alineado con lo que los demás desarrollaban. De esta manera, contribuí a que el trabajo se mantenga ordenado, conectado y orientado al cumplimiento de los objetivos de esta primera entrega.<br>
-        <strong>TB:</strong> (texto)
+        <strong>TB:</strong> Reorganice mi avance en función de las correcciones y entregables que debían ajustarse para esta etapa, priorizando primero los aspectos más observados en la retroalimentación, como segmentos, entrevistas, backlog y documentación de sprint. Para cumplir con los tiempos, fui resolviendo cada parte de manera progresiva y mantuve comunicación con el equipo para validar que los cambios realizados encajaran con el resto del trabajo. Esto me permitió aportar a un entorno colaborativo más ordenado, en el que las tareas se orientaron al cumplimiento de objetivos concretos y al fortalecimiento de la calidad del entregable.
         <br>
         <br>
         <strong>- Hurtado Faustino, Anghelo:</strong><br>
@@ -1891,6 +1891,17 @@ Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las ta
 https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead6e09750339DC4EFCA/senit-sprint-2
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
+
+Durante este sprint, el equipo se enfocó en el desarrollo de la primera base funcional de la Web Application de Senit, priorizando el módulo operativo del sistema. En esta iteración, los avances estuvieron relacionados con la visualización de habitaciones, el flujo de check-in por horas, la consulta de detalles de estadía, el registro de check-out, los filtros por estado y la configuración inicial del cambio de idioma dentro de la aplicación.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+|------------|--------|-----------|----------------|---------------------|--------------------|
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
+| [user/repository] | main | [commit-id] | [commit-message] | - | 31/07/2026 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
