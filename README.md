@@ -1077,41 +1077,39 @@ Esta es una entrevista detallada a una viajera frecuente de 51 años sobre sus h
 </p>
 
 
-
-
 ### 2.4. Big Picture Event Storming
 
 **Explicación**
 
-El Big Picture Event Storming es una técnica de modelado colaborativo que nos ha permitido mapear todo el flujo de **Senit** de extremo a extremo. El objetivo principal es comprender cómo fluye la información a través de los distintos dominios del sistema, permitiéndonos identificar puntos críticos que podrían comprometer la eficiencia operativa en los hoteles y moteles.
+El Big Picture Event Storming es una técnica de modelado colaborativo que nos ha permitido mapear todo el flujo operativo manual de los establecimientos de hospedaje. Al enfocarnos en nuestros nuevos segmentos objetivos (Personal administrativo/operativo y Dueños/Propietarios), el propósito principal es comprender la carga de trabajo, los métodos de comunicación interna y descubrir los cuellos de botella reales que comprometen la eficiencia y generan estrés en el día a día.
 
-Para lograr una visión completa, el mapa se dividió en **6 apartados (Bounded Contexts) fundamentales**: *Reservation Management, Front Desk, Room Management, Guest Stay, Housekeeping y Billing & Check-out*.
+Para lograr una visión completa de esta realidad, el mapa se dividió en **6 apartados (Bounded Contexts) fundamentales**: *Reservation Management, Front Desk, Room Management, Housekeeping, Billing & Check-out y Management & Reporting*.
 
 **Metodología aplicada** Para el desarrollo de esta sesión, el equipo siguió un proceso de cuatro etapas fundamentales:
 
-1. **Exploración Caótica:** Identificamos todos los eventos de dominio (sucesos en pasado) dividiéndolos en los 6 contextos operativos del hotel.
-2. **Línea de Tiempo:** Ordenamos los eventos cronológicamente para entender el ciclo de vida completo de la estadía.
-3. **Identificación de Actores y Sistemas:** Asignamos responsables (Huéspedes, Recepcionistas, Personal de Limpieza) y herramientas externas (API Pagos, API SUNAT).
-4. **Detección de puntos críticos:** Marcamos áreas de incertidumbre operativa (hotspots) entre los diferentes módulos.
+1. **Exploración Caótica:** Identificamos todos los eventos de dominio (sucesos en pasado) enfocados puramente en el trabajo manual, dividiéndolos en los 6 contextos operativos.
+2. **Línea de Tiempo:** Ordenamos los eventos cronológicamente para entender el ciclo desde que llega un mensaje de WhatsApp hasta que el dueño revisa el cuadre de caja.
+3. **Identificación de Actores y Sistemas:** Asignamos a los responsables directos (Recepción, Limpieza, Admin/Dueño) y las plataformas externas utilizadas (Yape/Plin, Portal SUNAT).
+4. **Detección de puntos críticos:** Marcamos áreas de alto riesgo e incertidumbre operativa (hotspots) generadas por la falta de un sistema digital centralizado.
 
 **Big Picture Event Storming - Leyenda** Utilizamos el siguiente código de colores estándar para garantizar la legibilidad del diagrama:
 
-| Color | Concepto | Función en Senit |
+| Color | Concepto | Función en la Operación Actual |
 | :--- | :--- | :--- |
-| **Naranja** | **Domain Event** | Sucesos significativos ya ocurridos (ej. "Reserva Confirmada", "Habitación Asignada"). |
-| **Amarillo** | **Actor** | Personas o roles que toman decisiones o ejecutan acciones dentro del flujo (ej. Huésped, Recepción). |
-| **Rosado** | **External System** | Plataformas externas que se integran al sistema (API Pagos, API SUNAT). |
-| **Violeta** | **Hotspot** | Riesgos, dudas operativas o cuellos de botella detectados (ej. ¿Qué pasa si el pago rebota y bloquea el cuarto?). |
+| **Naranja** | **Domain Event** | Sucesos significativos ya ocurridos y ejecutados manualmente (ej. "Reserva Registrada Manualmente", "Caja Cuadrada Manualmente"). |
+| **Amarillo** | **Actor** | Roles que toman decisiones o ejecutan acciones dentro del flujo de trabajo (ej. Recepción, Limpieza, Admin/Dueño). |
+| **Rosado** | **External System** | Plataformas o aplicaciones externas de las que depende el negocio (ej. Yape/Plin, Portal SUNAT). |
+| **Violeta** | **Hotspot** | Riesgos, descoordinaciones o cuellos de botella críticos detectados (ej. "¿Qué pasa si olvidan anotar y cruzan dos reservas?"). |
 
 **Big Picture Event Storming - Mapa**
 
-![Mapa de Operaciones Senit - Big Picture Event Storming](assets/Diagrams/big-picture.png)
+![Mapa de Operaciones Senit - Big Picture Event Storming](assets/Diagrams/big-picture1.png)
 
 **Interpretación de hallazgos clave**
 
-* **Gestión de Estadía (Guest Stay vs Room Management):** Al separar la gestión del cuarto de la estadía del huésped, descubrimos que el control de consumos extras debe enlazarse directamente con el módulo de facturación final, evitando fugas de dinero por snacks o bebidas no cobradas al momento del check-out.
-* **Dependencia crítica de la API SUNAT (Billing):** Durante el apartado de facturación, se evidenció que el evento `Comprobante Emitido` depende del sistema externo de SUNAT. Se identificó un *hotspot* sobre qué hacer si el servicio se cae, concluyendo que el sistema debe emitir comprobantes en contingencia.
-* **Brecha de comunicación en Housekeeping:** El mapa reveló un vacío crítico entre `Habitación Liberada` y `Limpieza Iniciada`. Si el personal no cuenta con un dispositivo (PC) para reportar, la habitación queda bloqueada en el sistema. Esto validó la necesidad de adaptar la interfaz de limpieza para dispositivos móviles.
+* **Riesgo de Sobreocupación en Reservas Manuales:** Al mapear el flujo de `1. Reservation Mgt`, se evidenció la alta dependencia de herramientas manuales (WhatsApp y Excel). La falta de una base de datos centralizada provoca que el evento `Reserva Registrada Manualmente` sea propenso a errores humanos de transcripción, validando la necesidad de automatizar el control de disponibilidad.
+* **Cuello de Botella Crítico en Billing:** Durante el apartado `5. Billing & Check-out`, se identificó un *hotspot* mayor en el ingreso manual de datos al Portal SUNAT (`External System`). Este proceso es lento y genera largas filas de espera, por lo que el sistema Senit debe integrar una solución de facturación electrónica rápida y nativa.
+* **Falla de Comunicación Interna (Housekeeping):** El mapa reveló una brecha de comunicación entre el aviso de salida de Recepción y la acción de Limpieza (`4. Housekeeping`). Al depender de grupos de WhatsApp, los mensajes a veces se pierden o no se leen a tiempo, provocando que habitaciones limpias no se asignen rápidamente al siguiente huésped.
 
 ## 2.5. Ubiquitous Language
 
