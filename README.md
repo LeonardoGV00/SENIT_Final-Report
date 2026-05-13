@@ -1773,10 +1773,33 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
 
 ### 5.2.2. Sprint 2
 
+En esta segunda iteración, el equipo orientó sus esfuerzos al desarrollo inicial de la **Web Application** de Senit, dejando atrás la etapa centrada en la landing page trabajada en el Sprint 1. El objetivo principal de este sprint fue comenzar la construcción funcional del sistema interno del hospedaje, priorizando aquellas historias relacionadas con la operación diaria del personal, especialmente la visualización de habitaciones, el registro de check-in por horas y la consulta de información de estadías.
+
 #### 5.2.2.1. Sprint Planning 2.
+| Sprint # | Sprint 2 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| Date | 2026-05-03 |
+| Time | 10:00 PM |
+| Location | Reunión virtual realizada a través de Discord |
+| Prepared By | Danitza Ivonne Heredia Hoyos |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| **Sprint Goal & User Stories** |  |
+| Sprint 2 Goal | Desarrollar la primera base funcional de la Web Application de Senit, enfocándose en la visualización de habitaciones, el registro y cierre de estadías, la consulta de detalles de estadía, los filtros por estado y la adaptación inicial del cambio de idioma dentro de la aplicación. |
+| Sprint 2 Velocity | 23 |
+| Sum of Story Points | 23 |
 
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
+En esta sección se individualizan los aspectos conclusivos del Sprint 2, con la finalidad de indicar qué miembro asumió el rol del líder y qué parte del grupo asumió el de colaboradores de ese Sprint. Para el caso del Sprint 2, los aspectos priorizados en la iteración, fueron la planificación y la documentación del sprint, en el cual se encuentra el diseño UI de la Web Application, la implementación de las vistas del módulo operativo, la coherencia visual de la interfaz y el soporte para la internacionalización en la aplicación.
+
+| Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Web Application UI Design Leader (L) / Collaborator (C) | Frontend Implementation Leader (L) / Collaborator (C) | Visual Consistency and Style Support Leader (L) / Collaborator (C) | Internationalization Support Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | C | C | C | L | C |
+| Montez Zamora, Edgar Alexander Mauricio | Zenkit0 | C | C | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | L | C | C | C | C |
+| Hurtado Faustino, Anghelo | Limos05 | C | C | C | C | L |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | L | L | C | C |
 #### 5.2.2.3. Sprint Backlog 2.
 
 #### 5.2.2.4. Development Evidence for Sprint Review.
