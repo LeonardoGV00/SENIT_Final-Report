@@ -745,36 +745,6 @@ En base al análisis previo, se definen las siguientes estrategias para ganar cu
 | **Little Hotelier** | Diseñado para pequeños alojamientos. | Muy fácil de usar y aplicación móvil fluida. | Débil en gestión de alta rotación (horas) y sin POS avanzado. | **Alta Rotación:** Implementar alertas automáticas de limpieza post-salida y módulos de venta (snacks/bebidas) integrados. |
 | **Métodos Manuales** | Cuadernos o hojas de cálculo (Excel). | Sin costo de implementación inicial. | Total vulnerabilidad a errores de caja y falta de control real. | **Educación (ROI):** Demostrar cómo el control digital de Senit evita las pérdidas por desorganización, pagando el software por sí solo. |
 
-## Segmento 2: Huéspedes y clientes frecuentes de hoteles y moteles
-
-### Preguntas complementarias
-
-- ¿Cuál es su nombre completo?
-- ¿Cuántos años tiene?
-- ¿En qué distrito o ciudad reside actualmente?
-- ¿Con qué frecuencia suele hospedarse en hoteles, moteles u hostales?
-- ¿Cuál suele ser el motivo principal de su hospedaje? (descanso, turismo, trabajo, viaje ocasional, etc.)
-- ¿Qué dispositivos tecnológicos utiliza con mayor frecuencia para buscar o reservar hospedajes?
-- ¿Qué medios o canales suele usar para reservar hospedajes? (página web, app, llamada, WhatsApp, redes sociales, atención presencial, etc.)
-
-### Preguntas principales
-
-- ¿Cómo fue el proceso de reserva en el último hospedaje que utilizó?
-- ¿Tuvo algún problema relacionado con disponibilidad, sobre-reservas o errores en su reserva?
-- ¿Qué tan rápido y sencillo fue el proceso de check-in y check-out?
-- ¿Cómo calificaría la comunicación con el personal del establecimiento durante su atención?
-- ¿Alguna vez ha tenido problemas con pagos, facturación o comprobantes en un hospedaje?
-- ¿Qué tan satisfecho quedó con la limpieza, organización y estado general de la habitación?
-- ¿Recibió el servicio que esperaba al momento de hospedarse? ¿Qué sintió que faltó?
-- ¿Cuál fue la principal frustración que tuvo durante su experiencia de reserva, llegada o estadía?
-- ¿Cuál es el principal objetivo que busca cumplir cuando reserva un hospedaje? (rapidez, comodidad, privacidad, confianza, precio, etc.)
-- ¿Qué aspecto de la experiencia mejoraría primero: rapidez, atención, comodidad, información o proceso de reserva?
-- ¿Qué tanto le gustaría poder realizar un pre check-in o registro anticipado desde su casa o celular?
-- Si el establecimiento utilizara un sistema digital para reservar y registrarse más rápido, ¿le resultaría más atractivo? ¿Por qué?
-- ¿Qué información le gustaría ver clara antes de confirmar una reserva? (precio, tipo de habitación, disponibilidad, servicios incluidos, horarios, etc.)
-- ¿Qué tan importante es para usted recibir confirmaciones inmediatas de su reserva y pago?
-- ¿Qué canal de atención o reserva le resulta más cómodo y confiable cuando busca hospedaje?
-
 ### 2.2.2 Registro de entrevistas
 
 Se han diseñado dos bloques de preguntas: uno dirigido al personal administrativo y operativo de hoteles y moteles, y otro a los dueños y propietarios de estos establecimientos. Las preguntas incluyen aspectos demográficos y variables clave como la gestión de reservas, el proceso de check-in/check-out, el uso de tecnología, los canales de interacción, los objetivos del negocio y las principales frustraciones relacionadas con la operación y supervisión del hospedaje.
