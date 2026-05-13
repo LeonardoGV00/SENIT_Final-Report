@@ -861,6 +861,25 @@ La entrevista fue realizada a Anthony Paul Inga Carvajal, gerente de turno con m
 </div>
 <br>
 
+**Entrevista 2**
+<p align="center">
+  <img src="assets/interviews/interview_segment_1_n2.png" alt="Entrevista con Becker Caisaguana"/>
+  <br/><i>Evidencia de entrevista: Becker Caisaguana</i>
+</p>
+
+- **Nombre:** Becker Caisaguana
+- **Edad:** 23 años
+- **Residencia:** La Molina
+- **Enlace de la entrevista:** [Ver grabación aquí]()
+- **Duracion:** 3:25
+- **Timing:** 15:37 - 19:07
+
+**Resumen de la entrevista:**
+<div align="justify">
+La entrevista fue realizada a Becker Caisaguana, encargado de la gestión operativa en un establecimiento de hospedaje. En su labor diaria, la administración se lleva a cabo de forma totalmente manual mediante el uso de cuadernos, hojas de Excel y grupos de WhatsApp para la coordinación interna. Becker destaca que esta falta de digitalización genera errores críticos, especialmente en fechas de alta demanda, donde se producen sobreocupaciones y cruces de reservas por no registrar los datos a tiempo. Otro punto de dolor identificado es la demora en la facturación electrónica, ya que deben ingresar manualmente al portal de la SUNAT, lo que genera largas filas y quejas en recepción. El entrevistado señala que la comunicación sobre el estado de las habitaciones es ineficiente al depender de mensajes que a veces no se leen. Finalmente, destaca que la implementación de una herramienta como Senit, que ofrezca un mapa visual interactivo de habitaciones en tiempo real y automatice las reservas, sería la solución definitiva para eliminar el desorden operativo y mejorar la rapidez en la atención al cliente.
+</div>
+<br>
+
 #### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
@@ -886,25 +905,8 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 </div>
 <br>
 
+
 **Entrevista 2**
-<p align="center">
-  <img src="assets/interviews/interview_segment_2_n2.png" alt="Entrevista con Omar Adriano Rojas"/>
-  <br/><i>Evidencia de entrevista: Omar Adriano Rojas</i>
-</p>
-
-* **Nombre:** Omar Adriano Rojas
-* **Edad:** 20 años
-* **Residencia:** Ate
-* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/personal/u20231h059_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20231h059%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevistas%20Aplicaciones%20Web%2FEntrevistas%20SENIT%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E1db915aa%2D330c%2D43a8%2Da572%2D0bc39bdd6522)
-* **Duracion:** 06:05
-* **Timing:** 31:05 - 37-18
-
-**Resumen de la entrevista:**
-
-La entrevista fue realizada a Omar Adriano Rojas, joven de 20 años que suele hospedarse en hoteles y moteles. Para buscar y reservar hospedajes, actualmente utiliza WhatsApp, aunque expresó una fuerte preferencia por plataformas web que le permitan autogestionar su reserva viendo precios, fotos reales y disponibilidad sin tener que esperar la respuesta de un recepcionista. Durante la entrevista, destacó que su mayor frustración es la desorganización del personal y tener que esperar en recepción para el check-in (especialmente cuando la habitación aún no está limpia). Indicó que le resultaría muy atractivo un sistema que le permita hacer un pre check-in digital desde su celular. Además, señaló como aspectos críticos de su estadía la exigencia de una limpieza impecable, privacidad total y la necesidad innegociable de recibir comprobantes de pago (boletas o facturas) y correos de confirmación de manera inmediata para sentir confianza en el servicio.
-
-
-**Entrevista 3**
 <p align="center">
   <img src="assets/interviews/interview_segment_2_n3.jpg" alt="Entrevista con Lilian Zamora Rua"/>
   <br/><i>Evidencia de entrevista: Lilian Zamora Rua</i>
