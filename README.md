@@ -1209,23 +1209,35 @@ En esta sección del documento se da a conocer el glosario de términos del domi
 | 6 | US-08 | Compatibilidad de la landing page con dispositivos móviles | Como visitante que ingresa a la landing page desde su celular, quiero que la página se adapte al tamaño de mi pantalla, para navegar el sitio con normalidad. | 5 |
 | 7 | US-06 | Cambio de idioma | Como visitante, quiero cambiar el idioma de la página entre español e inglés, para entender mejor la información. | 5 |
 | 8 | US-07 | Redes sociales | Como administrador de un hospedaje interesado en Senit, quiero encontrar enlaces a redes sociales y medios de contacto, para conocer más sobre Senit. | 2 |
-| 9 | US-09 | Visualización del Rack Gráfico | Como recepcionista del hospedaje, quiero ver un panel visual con todas las habitaciones y sus estados actuales, para identificar rápidamente la disponibilidad al atender a un cliente. | 5 |
-| 10 | US-10 | Registro de Check-in por bloques de horas | Como recepcionista del hospedaje, quiero registrar la entrada de un huésped seleccionando un bloque de horas, para calcular automáticamente su hora de salida y el costo inicial. | 5 |
-| 11 | US-12 | Visualización de detalles de ocupación | Como recepcionista del hospedaje, quiero hacer clic en una habitación ocupada para ver sus detalles, para informar al cliente cuánto tiempo le queda o su deuda actual. | 3 |
-| 12 | US-14 | Registro de Check-out y cambio a limpieza | Como recepcionista del hospedaje, quiero finalizar la estadía de una habitación, para realizar el cobro y notificar que el cuarto necesita aseo. | 5 |
-| 13 | US-15 | Habilitación de habitación limpia | Como recepcionista del hospedaje, quiero marcar una habitación como "Limpia" una vez finalizado el aseo, para que vuelva a estar disponible para un nuevo alquiler. | 3 |
-| 14 | US-16 | Filtros rápidos en el Rack Gráfico | Como recepcionista del hospedaje, quiero filtrar las habitaciones por su estado actual, para encontrar más rápido los cuartos que están listos para ser alquilados. | 2 |
-| 15 | US-11 | Alertas de tiempo de estadía por vencer | Como recepcionista del hospedaje, quiero que el sistema me notifique cuando el tiempo de una habitación esté por expirar, para poder avisar al huésped con anticipación. | 3 |
-| 16 | US-13 | Agregar consumos adicionales al cuarto | Como recepcionista del hospedaje, quiero agregar productos o servicios extra a la cuenta de la habitación, para cobrar el monto total en una sola transacción al final. | 3 |
-| 17 | TS-01 | Persistencia de datos de reservas | Como desarrollador, quiero almacenar las reservas en una base de datos relacional para garantizar integridad y trazabilidad sobre la información de los usuarios, reservas y cortes de caja. | 5 |
-| 18 | TS-02 | Actualización en tiempo real del estado de habitaciones | Como desarrollador, quiero sincronizar el estado de las habitaciones en tiempo real para evitar conflictos de asignación o inconvenientes con clientes. | 5 |
-| 19 | TS-08 | Validación de datos | Como desarrollador, quiero validar los datos ingresados por los usuarios para evitar registros erróneos en el sistema. | 3 |
-| 20 | TS-03 | Diseño responsive Mobile y Desktop | Como desarrollador, quiero que la plataforma sea responsive para garantizar una correcta visualización en dispositivos móviles y cambios de tamaño en computadoras. | 3 |
-| 21 | TS-04 | Autenticación segura | Como desarrollador, quiero implementar autenticación segura para restringir accesos no autorizados al sistema. | 5 |
-| 22 | TS-05 | Registro de accesos del personal | Como desarrollador, quiero registrar los accesos de usuarios para mantener trazabilidad y monitoreo de actividad. | 3 |
-| 23 | TS-06 | Optimización del tiempo de respuesta | Como desarrollador, quiero optimizar el rendimiento del sistema para reducir tiempos de carga y mejorar la experiencia del usuario. | 3 |
-| 24 | TS-07 | Integración con facturación electrónica | Como desarrollador, quiero integrar servicios de facturación electrónica para emitir comprobantes automáticamente. | 5 |
-| 25 | TS-09 | Arquitectura basada en bounded contexts | Como desarrollador, quiero estructurar el sistema mediante bounded contexts para mejorar la mantenibilidad y escalabilidad del proyecto. | 3 |
+| 9 | US-09 | Visualización de habitaciones | Como recepcionista del hospedaje, quiero consultar las habitaciones según su estado actual, para identificar cuáles están disponibles, ocupadas, en limpieza o en mantenimiento. | 3 |
+| 10 | US-10 | Registro de check-in por horas | Como recepcionista del hospedaje, quiero registrar los tiempos de las estadías solicitadas por los huéspedes, para calcular automáticamente el costo inicial y la hora límite de salida, reduciendo el tiempo de atención necesario. | 5 |
+| 11 | US-12 | Consulta de detalles de estadía | Como recepcionista del hospedaje, quiero consultar los detalles de una estadía activa, para informar al huésped sobre el tiempo restante y el monto pendiente de la estadía. | 4 |
+| 12 | US-14 | Registro de check-out | Como recepcionista del hospedaje, quiero registrar la salida del huésped, para cerrar la estadía y liberar la habitación para limpieza. | 5 |
+| 13 | US-16 | Actualización de estado de habitación | Como personal operativo del hospedaje, quiero actualizar el estado de una habitación después de su limpieza e inspección, para dejarla disponible o derivarla a mantenimiento según su condición. | 3 |
+| 14 | US-17 | Filtros de habitaciones | Como recepcionista del hospedaje, quiero filtrar habitaciones por su estado actual, para encontrar rápidamente las habitaciones que necesito revisar, incluidas las que están cerca de desocuparse. | 3 |
+| 15 | US-20 | Registro de huéspedes sin reserva | Como recepcionista del hospedaje, quiero registrar huéspedes sin reserva previa, para asignar habitaciones disponibles durante la atención del huésped. | 5 |
+| 16 | TS-01 | Internacionalización de la plataforma | Como developer, quiero implementar internacionalización en la plataforma web, para permitir la visualización en español e inglés. | 3 |
+| 17 | US-11 | Alertas de estadías a punto de finalizar | Como recepcionista del hospedaje, quiero recibir alertas cuando una estadía esté próxima a finalizar, para avisar al huésped antes de que termine su tiempo de uso. | 3 |
+| 18 | US-13 | Registro de consumos adicionales | Como recepcionista del hospedaje, quiero registrar consumos adicionales durante una estadía, para incluirlos en el cobro final del huésped. | 3 |
+| 19 | US-18 | Registro de reservas | Como recepcionista del hospedaje, quiero registrar reservas anticipadas, para organizar la disponibilidad de habitaciones antes de la llegada del huésped. | 5 |
+| 20 | US-19 | Prevención de sobrereservas | Como administrador del hospedaje, quiero evitar reservas con fechas que se superpongan para una misma habitación, para reducir conflictos durante la atención de huéspedes. | 5 |
+| 21 | US-21 | Inicio de sesión | Como trabajador del hospedaje, quiero iniciar sesión con mis credenciales, para acceder a las funciones correspondientes a mi rol. | 3 |
+| 22 | US-22 | Registro de cuenta administrativa | Como administrador del hospedaje, quiero registrar una cuenta administrativa para mi establecimiento, para acceder a la plataforma y gestionar al personal del hospedaje. | 5 |
+| 23 | US-24 | Registro de usuarios del personal | Como administrador del hospedaje, quiero registrar usuarios del personal, para permitir su acceso a la plataforma. | 3 |
+| 24 | US-23 | Gestión de roles de usuario | Como administrador del hospedaje, quiero asignar roles al personal registrado, para controlar el acceso según sus responsabilidades operativas. | 3 |
+| 25 | US-25 | Emisión de comprobantes electrónicos | Como recepcionista del hospedaje, quiero emitir el comprobante electrónico correspondiente al pago de una estadía, para entregar un respaldo formal de la transacción. | 5 |
+| 26 | US-26 | Supervisión de ocupación de habitaciones | Como administrador del hospedaje, quiero consultar el estado de ocupación de las habitaciones, para supervisar la disponibilidad y el uso del establecimiento. | 3 |
+| 27 | US-27 | Consulta de ingresos del hospedaje | Como administrador del hospedaje, quiero consultar los ingresos generados por estadías y consumos, para supervisar el rendimiento económico del establecimiento. | 5 |
+| 28 | TS-02 | Gestión de habitaciones por API REST | Como developer, quiero integrar la consulta y actualización de habitaciones mediante una RESTful API, para administrar su disponibilidad y estado operativo. | 5 |
+| 29 | TS-04 | Gestión de estadías por API REST | Como developer, quiero integrar el registro y actualización de estadías mediante una RESTful API, para gestionar el check-in y check-out de huéspedes. | 5 |
+| 30 | TS-03 | Gestión de reservas por API REST | Como developer, quiero integrar el registro y consulta de reservas mediante una RESTful API, para gestionar la disponibilidad de habitaciones del hospedaje. | 5 |
+| 31 | TS-05 | Gestión de consumos por API REST | Como developer, quiero integrar el registro y consulta de consumos mediante una RESTful API, para mantener actualizado el cobro asociado a cada estadía. | 3 |
+| 32 | TS-06 | Gestión de pagos por API REST | Como developer, quiero integrar el registro y consulta de pagos mediante una RESTful API, para mantener actualizados los montos pendientes de las estadías. | 3 |
+| 33 | TS-07 | Emisión de comprobantes electrónicos por API REST | Como developer, quiero integrar la emisión y consulta de comprobantes electrónicos mediante una RESTful API, para generar comprobantes asociados a pagos registrados. | 5 |
+| 34 | TS-08 | Autenticación por API REST | Como developer, quiero integrar la autenticación mediante una RESTful API, para validar el acceso según los roles del personal. | 5 |
+| 35 | TS-09 | Gestión de usuarios por API REST | Como developer, quiero integrar el registro y consulta de usuarios mediante una RESTful API, para administrar el acceso del personal a la plataforma. | 3 |
+| 36 | TS-11 | Alertas operativas por API REST | Como developer, quiero integrar la consulta de alertas operativas mediante una RESTful API, para identificar estadías próximas a finalizar y estados relevantes de operación. | 3 |
+| 37 | TS-12 | Reportes de ocupación e ingresos por API REST | Como developer, quiero integrar la consulta de reportes mediante una RESTful API, para visualizar la ocupación e ingresos del hospedaje. | 5 |
 ---
 # Capítulo IV: Product Design
 
