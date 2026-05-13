@@ -1717,6 +1717,9 @@ En esta sección se presenta una vista de la primera versión funcional de la la
   <i>Primera versión funcional de la landing page de Senit durante el Sprint 1.</i>
 </p>
 
+**Enlace del video de ejecución:**  
+[https://youtu.be/2J9pqe0KXPM]
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint no se implementaron ni se documentaron Web Services. El alcance del Sprint 1 estuvo enfocado únicamente en el desarrollo de la primera versión funcional de la landing page de Senit, por lo que no se trabajó todavía con endpoints ni con documentación técnica asociada a servicios.
