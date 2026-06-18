@@ -1934,101 +1934,93 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
   <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
 </p>
 
-### 5.2.2. Sprint 2
+## 5.3 Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+El proceso de validación de SENIT se realizará mediante entrevistas dirigidas a los segmentos objetivo identificados. El propósito es evaluar la percepción de los usuarios sobre la propuesta de valor presentada en la Landing Page y validar la utilidad de los flujos principales de la plataforma web para la gestión de hoteles y moteles.
 
-En esta segunda iteración, el equipo orientó sus esfuerzos al desarrollo inicial de la **Web Application** de Senit, dejando atrás la etapa centrada en la landing page trabajada en el Sprint 1. El objetivo principal de este sprint fue comenzar la construcción funcional del sistema interno del hospedaje, priorizando aquellas historias relacionadas con la operación diaria del personal, especialmente la visualización de habitaciones, el registro de check-in por horas y la consulta de información de estadías.
+La evaluación se divide en dos componentes principales:
+- Evaluación de la Landing Page: Comprensión de la propuesta de valor, claridad de las funcionalidades ofrecidas y percepción de confianza en la solución. 
+- Validación de los Flujos de la WebApp: Gestión de reservas, control de habitaciones, administración de clientes y seguimiento de operaciones dentro del establecimiento.
 
-#### 5.2.2.1. Sprint Planning 2.
+**Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles**
 
-| Sprint # | Sprint 2 |
-|----------|----------|
-| **Sprint Planning Background** |  |
-| Date | 2026-05-03 |
-| Time | 10:00 PM |
-| Location | Reunión virtual realizada a través de Discord |
-| Prepared By | Danitza Ivonne Heredia Hoyos |
-| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montez Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
-| Sprint n – 1 Review Summary | En el Sprint 1 se logró desarrollar la primera versión funcional de la landing page de Senit, incluyendo la presentación inicial del producto, navegación entre secciones, explicación de funcionalidades, planes de suscripción, contacto, redes sociales, cambio de idioma y adaptación responsive. Como resultado, el equipo dejó establecida la base visual y comunicativa del producto, permitiendo presentar la propuesta de valor de Senit a los segmentos objetivo. |
-| Sprint n – 1 Retrospective Summary | A partir del Sprint 1, el equipo identificó la necesidad de fortalecer la relación entre backlog, evidencias y entregables implementados, así como mantener una mejor organización de tareas dentro del sprint. También se reconoció la importancia de avanzar de forma incremental, pasando de la landing page a la Web Application mediante módulos funcionales concretos y alcanzables. |
-| **Sprint Goal & User Stories** |  |
-| Sprint 2 Goal | **Our focus is on** building the first operational flow of Senit’s Web Application for room management and guest stay handling.<br>**We believe it delivers** a more organized and efficient room operation process to reception and operational staff of the lodging business.<br>**This will be confirmed when** staff can visualize room status, register guest stays by hours, review stay details, perform check-out, update room states, filter rooms by status, and register walk-in guests within the application. |
-| Sprint 2 Velocity | 31 |
-| Sum of Story Points | 31 |
+**A. Fase de Exploración Inicial (Landing Page)**
+- Después de revisar la Landing Page, ¿cuál es su percepción sobre el propósito principal de SENIT?
+- ¿La información presentada le permite comprender cómo SENIT podría ayudarle en sus actividades laborales diarias?
+- ¿Qué funcionalidad le llamó más la atención y por qué?
+- ¿Considera que la página transmite confianza para gestionar información importante del establecimiento?
 
-#### 5.2.2.2. Aspect Leaders and Collaborators.
+**B. Fase de Interacción y Tareas (WebApp)**
+  
+  Tarea 1: Gestión de Reservas
 
-En esta sección se individualizan los aspectos conclusivos del Sprint 2, con la finalidad de indicar qué miembro asumió el rol del líder y qué parte del grupo asumió el de colaboradores de ese Sprint. Para el caso del Sprint 2, los aspectos priorizados en la iteración, fueron la planificación y la documentación del sprint, en el cual se encuentra el diseño UI de la Web Application, la implementación de las vistas del módulo operativo, la coherencia visual de la interfaz y el soporte para la internacionalización en la aplicación.
+  Escenario: "Un cliente solicita una habitación y usted debe registrar la reserva en el sistema."
+  
+  Preguntas de validación:
+  - ¿Qué tan intuitivo le resultó el proceso de registro de una reserva?
+  - ¿La información necesaria para completar la tarea fue fácil de identificar?
+  - ¿Considera que este proceso podría agilizar su trabajo diario?
 
-| Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Web Application UI Design Leader (L) / Collaborator (C) | Operational Flow Implementation Leader (L) / Collaborator (C) | Visual Consistency and Style Support Leader (L) / Collaborator (C) | Internationalization Support Leader (L) / Collaborator (C) |
-|---|---|---|---|---|---|---|
-| Heredia Hoyos, Danitza Ivonne | UDnTzh | C | C | C | L | C |
-| Montez Zamora, Edgar Alexander Mauricio | Zenkit0 | C | C | C | C | C |
-| Lozano Leon, Richard Enrique | AikoLz | L | C | C | C | C |
-| Hurtado Faustino, Anghelo | Limos05 | C | C | L | C | C |
-| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | L | C | C | C |
+  Tarea 2: Consulta de Habitaciones
+  
+  Escenario: "Necesita verificar qué habitaciones se encuentran disponibles, ocupadas o en mantenimiento."
 
-#### 5.2.2.3. Sprint Backlog 2.
+  Preguntas de validación:
+  - ¿La visualización del estado de las habitaciones le resultó clara?
+  - ¿Pudo encontrar la información requerida de manera rápida?
+  - ¿Considera que la organización de la información facilita la toma de decisiones operativas?
 
-El Sprint Backlog 2 recoge las historias referentes a la primera base funcional de la Web Application de Senit priorizadas para su desarrollo. El equipo en esta iteración trabajó en el módulo operativo del hospedaje y, concretamente, implementó la visualización de habitaciones, el check-in por horas, la consulta de los detalles de estadía, el check-out, los filtros basados en el estado y el soporte inicial para realizar la internacionalización de la aplicación. De tal forma que el sprint tenía como objetivo inicial la construcción del flujo funcional principal del sistema interno de Senit.
+  Tarea 3: Check-in y Check-out
 
-| Sprint # | Sprint 2 |  |  |  |  |  |  |
-|---|---|---|---|---|---|---|---|
-| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
-| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
-| US-09 | Visualización de habitaciones | T2-01 | Vista inicial de habitaciones | Desarrollar la vista principal de habitaciones mostrando su estado actual, permitiendo distinguir entre disponibles, ocupadas, en limpieza y en mantenimiento. | 5 | Garcia Villanueva, Leonardo Rafael | Done |
-| US-10 | Registro de check-in por horas | T2-02 | Flujo inicial de check-in | Implementar el flujo de registro de estadía por horas, permitiendo seleccionar una habitación disponible y calcular automáticamente la hora límite de salida y el costo inicial. | 6 | Hurtado Faustino, Anghelo | Done |
-| US-12 | Consulta de detalles de estadía | T2-03 | Vista de detalle de estadía activa | Desarrollar una vista o modal que permita consultar la información principal de una estadía activa, como hora de ingreso, hora de salida y monto pendiente. | 4 | Montes Zamora, Edgar Alexander Mauricio | Done |
-| US-14 | Registro de check-out | T2-04 | Flujo de cierre de estadía | Implementar la acción de check-out para cerrar la estadía, validar el pago correspondiente y actualizar la habitación al estado de limpieza. | 5 | Garcia Villanueva, Leonardo Rafael | Done |
-| US-16 | Actualización de estado de habitación | T2-05 | Cambio de estado operativo de habitación | Desarrollar la opción para actualizar habitaciones a disponible o mantenimiento luego de la limpieza e inspección correspondiente. | 4 | Montes Zamora, Edgar Alexander Mauricio | Done |
-| US-17 | Filtros de habitaciones | T2-06 | Filtros rápidos por estado | Desarrollar filtros que permitan visualizar habitaciones según su estado actual y facilitar la búsqueda rápida por parte del personal de recepción. | 3 | Lozano Leon, Richard Enrique | Done |
-| US-20 | Registro de huéspedes sin reserva | T2-07 | Flujo de registro walk-in | Implementar el flujo para registrar huéspedes sin reserva previa y asignarles una habitación disponible durante la atención en recepción. | 5 | Hurtado Faustino, Anghelo | Done |
-| TS-01 | Internacionalización de la plataforma | T2-08 | Configuración inicial de cambio de idioma | Implementar la base inicial para alternar entre español e inglés dentro de la Web Application, manteniendo consistencia en los textos principales del módulo desarrollado. | 4 | Heredia Hoyos, Danitza Ivonne | Done |
+  Escenario: "Debe registrar el ingreso y posteriormente la salida de un huésped."
 
-**Board del Sprint 2 en Trello:**  
-Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 2.
+  Preguntas de validación:
+  - ¿El flujo para realizar estas acciones le pareció sencillo de seguir?
+  - ¿Considera que el sistema ayuda a reducir errores durante la atención al cliente?
+  - ¿Qué aspectos del proceso podrían mejorarse?
 
-<p align="center">
-  <img src="assets/Trello 2.png" alt="Board del Sprint 2 en Trello" width="900"/>
-  <br>
-  <i>Figura del Board del Sprint 2 de Senit en Trello.</i>
-</p>
+**C. Fase de Cierre**
 
-**URL del board:**  
-https://trello.com/invite/b/6a04bca651225609f911fdfa/ATTI806cfc4f17149a32f88dead6e09750339DC4EFCA/senit-sprint-2
+- ¿Qué funcionalidad considera que aportaría mayor valor a su trabajo diario?
+- ¿De qué manera cree que SENIT podría contribuir a mejorar la gestión operativa del establecimiento?
+- ¿Qué mejoras o funcionalidades adicionales sugeriría para el sistema?
 
-#### 5.2.2.4. Development Evidence for Sprint Review.
+**Segmento 2: Dueños y Propietarios de Hoteles y Moteles**
 
-Durante este sprint, el equipo se enfocó en el desarrollo de la primera base funcional de la Web Application de Senit, priorizando el módulo operativo del sistema. En esta iteración, los avances estuvieron relacionados con la visualización de habitaciones, el flujo de check-in por horas, la consulta de detalles de estadía, el registro de check-out, los filtros por estado y la configuración inicial del cambio de idioma dentro de la aplicación.
+**A. Fase de Exploración Inicial (Landing Page)**
 
-#### 5.2.2.5. Execution Evidence for Sprint Review.
+- Después de revisar la Landing Page, ¿considera que SENIT responde a necesidades reales dentro de la gestión de un hotel o motel?
+- ¿La propuesta de valor presentada le parece suficientemente atractiva para considerar la adopción de la plataforma?
+- ¿Qué beneficio considera más relevante para la administración de su negocio?
+- ¿La información presentada le transmite confianza respecto al uso del sistema?
 
-#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+**B. Fase de Interacción y Tareas (WebApp)**
 
-En este sprint no se realizó la implementación ni se documentó ningún Web Service. El alcance del Sprint 2 fue el desarrollo de la primera base funcional de la Web Application de Senit, priorizando la visualización de habitaciones, el flujo de Check In por horas, la consulta de los detalles de estadía, el Check Out, los filtros por estado y el soporte inicial de internacionalización.
-<br>
-Por ello, la especificación de los endpoints, de los verbos HTTP, de los parámetros, de las respuestas, de las capturas de documentación o de commits relacionados con Web Services no corresponde a esta iteración, sino que será objeto de desarrollo en los siguientes sprints cuando se inicie la implementación formal de los servicios que dan soporte a la lógica del sistema.
-#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+  Tarea 1: Supervisión de Operaciones
 
-#### 5.2.2.8. Team Collaboration Insights during Sprint.
+  Escenario: "Desea revisar el estado general de las reservas y habitaciones de su establecimiento."
 
-Durante el Sprint 2, el equipo mantuvo una dinámica de trabajo colaborativa orientada principalmente al desarrollo de la Web Application de Senit, sin dejar de lado la actualización del reporte y la continuidad del trabajo documental del proyecto. En esta iteración, la implementación se desarrolló de manera distribuida, permitiendo que los integrantes aporten desde distintos frentes, como el diseño e implementación de vistas, la organización del sprint, la adaptación de contenido y la documentación del avance realizado.
+  Preguntas de validación:
+  - ¿La información principal le resultó fácil de identificar?
+  - ¿Considera que el sistema proporciona una visión clara del estado operativo del negocio?
+  - ¿Qué información adicional le gustaría visualizar?
 
-GitHub continuó siendo el principal medio de colaboración y control de versiones, ya que permitió registrar cambios, mantener trazabilidad sobre los avances y evidenciar la participación de los miembros del equipo en los repositorios trabajados durante el sprint. A través de los commits y analíticos de contribución, se puede observar la participación de los integrantes tanto en el reporte del proyecto como en la implementación del producto.
+  Tarea 2: Control de la Gestión
 
-Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en los recursos asociados al desarrollo visual y funcional de la solución, estas evidencias permiten identificar la continuidad del trabajo colaborativo del equipo y la forma en que se fueron organizando los aportes dentro del Sprint 2.
+  Escenario: "Necesita supervisar las operaciones para asegurar un adecuado control del establecimiento."
 
-<p align="center">
-  <img src="assets/Team 1.png" alt="Commits realizados en el repositorio del Final Report durante el Sprint 2" width="900"/>
-  <br>
-  <i>Commits registrados en el repositorio del Final Report durante el Sprint 2.</i>
-</p>
+  Preguntas de validación:
+  - ¿La plataforma le brinda la información necesaria para realizar seguimiento a las operaciones?
+  - ¿Considera que el sistema facilitaría la toma de decisiones administrativas? 
+  - ¿Qué aspectos podrían mejorarse para incrementar el control del negocio?
 
-<p align="center">
-  <img src="assets/Team 2.png" alt="Commits realizados en el repositorio de la landing page durante el Sprint 2" width="900"/>
-  <br>
-  <i>Commits registrados en el repositorio de la landing page durante el Sprint 2.</i>
-</p>
+**C. Fase de Cierre**
 
+- ¿Qué beneficio tendría mayor impacto para la gestión de su establecimiento?
+- ¿Consideraría implementar una solución como SENIT en su negocio? ¿Por qué?
+- ¿Qué funcionalidades adicionales le gustaría incorporar al sistema?
+
+### 5.3.2. Registro de Entrevistas
 
 ---
 # Conclusiones
@@ -2058,7 +2050,5 @@ Ministerio de Comercio Exterior y Turismo. (2023). Perú: oferta y demanda de es
 https://www.gob.pe/institucion/mincetur/informes-publicaciones/5671698-informe-peru-oferta-y-demanda-de-establecimientos-de-hospedaje-ano-2023
 
 # Anexos
-Video AV1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgDp_fp4esChRK6kbuD7hr3rAY1MNhbgV34AeZQecIMnPSs?e=QLhQg8
-<br>
-Video TB1: https://upcedupe-my.sharepoint.com/:f:/g/personal/u20231h059_upc_edu_pe/IgBeyHTcUnpISL0REWDG7u1PAZwjiyo87REFgAUzvHa4QI0?e=t8MbKL
+Video AV2: 
 <br>
