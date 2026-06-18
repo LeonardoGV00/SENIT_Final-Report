@@ -1837,6 +1837,94 @@ Para la documentacion de la elaboración de los avances del Sprint 1, que el gru
   <i>Contribuciones individuales de los integrantes durante el Sprint 1 en GitHub.</i>
 </p>
 
+## 5.3 Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+El proceso de validación de SENIT se realizará mediante entrevistas dirigidas a los segmentos objetivo identificados. El propósito es evaluar la percepción de los usuarios sobre la propuesta de valor presentada en la Landing Page y validar la utilidad de los flujos principales de la plataforma web para la gestión de hoteles y moteles.
+
+La evaluación se divide en dos componentes principales:
+- Evaluación de la Landing Page: Comprensión de la propuesta de valor, claridad de las funcionalidades ofrecidas y percepción de confianza en la solución. 
+- Validación de los Flujos de la WebApp: Gestión de reservas, control de habitaciones, administración de clientes y seguimiento de operaciones dentro del establecimiento.
+
+**Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles**
+
+**A. Fase de Exploración Inicial (Landing Page)**
+- Después de revisar la Landing Page, ¿cuál es su percepción sobre el propósito principal de SENIT?
+- ¿La información presentada le permite comprender cómo SENIT podría ayudarle en sus actividades laborales diarias?
+- ¿Qué funcionalidad le llamó más la atención y por qué?
+- ¿Considera que la página transmite confianza para gestionar información importante del establecimiento?
+
+**B. Fase de Interacción y Tareas (WebApp)**
+  
+  Tarea 1: Gestión de Reservas
+
+  Escenario: "Un cliente solicita una habitación y usted debe registrar la reserva en el sistema."
+  
+  Preguntas de validación:
+  - ¿Qué tan intuitivo le resultó el proceso de registro de una reserva?
+  - ¿La información necesaria para completar la tarea fue fácil de identificar?
+  - ¿Considera que este proceso podría agilizar su trabajo diario?
+
+  Tarea 2: Consulta de Habitaciones
+  
+  Escenario: "Necesita verificar qué habitaciones se encuentran disponibles, ocupadas o en mantenimiento."
+
+  Preguntas de validación:
+  - ¿La visualización del estado de las habitaciones le resultó clara?
+  - ¿Pudo encontrar la información requerida de manera rápida?
+  - ¿Considera que la organización de la información facilita la toma de decisiones operativas?
+
+  Tarea 3: Check-in y Check-out
+
+  Escenario: "Debe registrar el ingreso y posteriormente la salida de un huésped."
+
+  Preguntas de validación:
+  - ¿El flujo para realizar estas acciones le pareció sencillo de seguir?
+  - ¿Considera que el sistema ayuda a reducir errores durante la atención al cliente?
+  - ¿Qué aspectos del proceso podrían mejorarse?
+
+**C. Fase de Cierre**
+
+- ¿Qué funcionalidad considera que aportaría mayor valor a su trabajo diario?
+- ¿De qué manera cree que SENIT podría contribuir a mejorar la gestión operativa del establecimiento?
+- ¿Qué mejoras o funcionalidades adicionales sugeriría para el sistema?
+
+**Segmento 2: Dueños y Propietarios de Hoteles y Moteles**
+
+**A. Fase de Exploración Inicial (Landing Page)**
+
+- Después de revisar la Landing Page, ¿considera que SENIT responde a necesidades reales dentro de la gestión de un hotel o motel?
+- ¿La propuesta de valor presentada le parece suficientemente atractiva para considerar la adopción de la plataforma?
+- ¿Qué beneficio considera más relevante para la administración de su negocio?
+- ¿La información presentada le transmite confianza respecto al uso del sistema?
+
+**B. Fase de Interacción y Tareas (WebApp)**
+
+  Tarea 1: Supervisión de Operaciones
+
+  Escenario: "Desea revisar el estado general de las reservas y habitaciones de su establecimiento."
+
+  Preguntas de validación:
+  - ¿La información principal le resultó fácil de identificar?
+  - ¿Considera que el sistema proporciona una visión clara del estado operativo del negocio?
+  - ¿Qué información adicional le gustaría visualizar?
+
+  Tarea 2: Control de la Gestión
+
+  Escenario: "Necesita supervisar las operaciones para asegurar un adecuado control del establecimiento."
+
+  Preguntas de validación:
+  - ¿La plataforma le brinda la información necesaria para realizar seguimiento a las operaciones?
+  - ¿Considera que el sistema facilitaría la toma de decisiones administrativas? 
+  - ¿Qué aspectos podrían mejorarse para incrementar el control del negocio?
+
+**C. Fase de Cierre**
+
+- ¿Qué beneficio tendría mayor impacto para la gestión de su establecimiento?
+- ¿Consideraría implementar una solución como SENIT en su negocio? ¿Por qué?
+- ¿Qué funcionalidades adicionales le gustaría incorporar al sistema?
+
+### 5.3.2. Registro de Entrevistas
+
 ---
 # Conclusiones
 **Conclusiones**
