@@ -1847,6 +1847,13 @@ La evaluación se divide en dos componentes principales:
 - Evaluación de la Landing Page: Comprensión de la propuesta de valor, claridad de las funcionalidades ofrecidas y percepción de confianza en la solución. 
 - Validación de los Flujos de la WebApp: Gestión de reservas, control de habitaciones, administración de clientes y seguimiento de operaciones dentro del establecimiento.
 
+### Preguntas complementarias
+
+- ¿Cuál es su nombre completo?
+- ¿Cuántos años tiene?
+- ¿Qué tipo de establecimiento posee o administra? (hotel, motel, hostal u otro)
+- ¿Cuál es su ocupación o rol principal dentro del negocio?
+
 **Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles**
 
 **A. Fase de Exploración Inicial (Landing Page)**
