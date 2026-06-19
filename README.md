@@ -2099,11 +2099,41 @@ Si bien en esta iteración el mayor avance estuvo concentrado en el reporte y en
 
 ### 5.2.3. Sprint 3
 
+En esta tercera iteración, el equipo orientó sus esfuerzos al desarrollo inicial de los **Web Services** de Senit. A diferencia del Sprint 1, enfocado en la landing page, y del Sprint 2, enfocado en la Web Application, este sprint se centró en la construcción del backend del sistema, con el objetivo de brindar soporte a las principales operaciones de la plataforma mediante una RESTful API.
+
+Durante este sprint se priorizó la implementación de servicios relacionados con la gestión de hoteles, habitaciones, reservas, estadías, autenticación, usuarios y suscripciones. Además, se consideró la documentación de los endpoints mediante Swagger/OpenAPI, con la finalidad de facilitar las pruebas, validar las respuestas del backend y permitir una futura integración más ordenada con la Web Application.
+
 #### 5.2.3.1. Sprint Planning 3
+
+| Sprint # | Sprint 3 |
+|----------|----------|
+| **Sprint Planning Background** |  |
+| Date | 2026-06-12 |
+| Time | 10:00 PM |
+| Location | Reunión virtual realizada a través de Discord |
+| Prepared By | Danitza Ivonne Heredia Hoyos |
+| Attendees (to planning meeting) | - Danitza Ivonne Heredia Hoyos<br>- Edgar Alexander Mauricio Montes Zamora<br>- Richard Enrique Lozano Leon<br>- Anghelo Faustino Hurtado<br>- Leonardo Rafael Garcia Villanueva |
+| Sprint n – 1 Review Summary | En el Sprint 2 se logró desarrollar la primera base funcional de la Web Application de Senit, incluyendo vistas principales para la administración hotelera, gestión de habitaciones, estadías, suscripción, configuración de cuenta y navegación entre módulos. Además, se realizó el despliegue de la aplicación mediante GitHub Pages, permitiendo validar su acceso desde un entorno web operativo. |
+| Sprint n – 1 Retrospective Summary | A partir del Sprint 2, el equipo identificó la necesidad de avanzar hacia la implementación del backend para reemplazar progresivamente los datos simulados y permitir que la Web Application consuma servicios reales. También se reconoció la importancia de documentar correctamente los endpoints mediante Swagger/OpenAPI, con el fin de facilitar las pruebas e integración entre frontend y backend. |
+| **Sprint Goal & User Stories** |  |
+| Sprint 3 Goal | **Our focus is on** implementing the first functional version of Senit’s RESTful API for hotel, room, reservation, guest stay, authentication, user and subscription management.<br>**We believe it delivers** a more reliable and integrated backend support to hotel administrators and operational staff by allowing the Web Application to consume documented services instead of relying only on local or simulated data.<br>**This will be confirmed when** the API exposes testable endpoints for hotels, rooms, reservations, guest stays, users, authentication and subscriptions through Swagger/OpenAPI, and the main services can be validated through HTTP requests. |
+| Sprint 3 Velocity | 34 |
+| Sum of Story Points | 31 |
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
+En esta sección se establecen los principales aspectos trabajados durante el Sprint 3, indicando qué integrante asumió el rol de líder y quiénes participaron como colaboradores. Para esta iteración, el equipo priorizó el desarrollo de los Web Services de Senit, por lo que los aspectos considerados fueron la planificación y documentación del sprint, la arquitectura inicial del backend, la implementación de los endpoints principales, la gestión de usuarios y autenticación, la gestión de suscripciones y la documentación de servicios mediante Swagger/OpenAPI.
+
+| Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Backend Architecture Leader (L) / Collaborator (C) | Hotel, Rooms and Stays API Leader (L) / Collaborator (C) | Users and Authentication API Leader (L) / Collaborator (C) | Subscriptions API and Swagger Documentation Leader (L) / Collaborator (C) |
+|---|---|---|---|---|---|---|
+| Heredia Hoyos, Danitza Ivonne | UDnTzh | L | C | C | C | C |
+| Montes Zamora, Edgar Alexander Mauricio | Zenkit0 | C | L | C | C | C |
+| Lozano Leon, Richard Enrique | AikoLz | C | C | C | L | C |
+| Hurtado Faustino, Anghelo | Limos05 | C | C | L | C | C |
+| Garcia Villanueva, Leonardo Rafael | LeonardoGV00 | C | C | C | C | L |
+
 #### 5.2.3.3. Sprint Backlog 3
+
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
