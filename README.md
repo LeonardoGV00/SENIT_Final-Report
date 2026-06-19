@@ -2064,7 +2064,18 @@ En este Sprint 2 se desarrolló la Web Application de Senit, enfocada en la admi
 En este sprint no se realizó la implementación ni se documentó ningún Web Service. El alcance del Sprint 2 fue el desarrollo de la primera base funcional de la Web Application de Senit, priorizando la visualización de habitaciones, el flujo de Check In por horas, la consulta de los detalles de estadía, el Check Out, los filtros por estado y el soporte inicial de internacionalización.
 <br>
 Por ello, la especificación de los endpoints, de los verbos HTTP, de los parámetros, de las respuestas, de las capturas de documentación o de commits relacionados con Web Services no corresponde a esta iteración, sino que será objeto de desarrollo en los siguientes sprints cuando se inicie la implementación formal de los servicios que dan soporte a la lógica del sistema.
+
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+En este Sprint 2 se realizó el despliegue de la Web Application de Senit utilizando GitHub Pages. Para ello, se configuró el repositorio `senit-webapp` con GitHub Actions como fuente de despliegue, permitiendo publicar la aplicación en un entorno web accesible desde el navegador. Esta configuración permitió validar que la WebApp se encuentre disponible en línea y que los usuarios puedan acceder a las principales vistas implementadas durante el Sprint.
+
+URL de despliegue: https://senit-aplicaciones-web.github.io/senit-webapp/
+
+<p align="center">
+  <img src="assets/deployment-sprint-2.jpeg" alt="Deployment de la Web Application de Senit en GitHub Pages" width="900"/>
+  <br>
+  <i>Figura del despliegue de la Web Application de Senit mediante GitHub Pages.</i>
+</p>
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
