@@ -2004,6 +2004,50 @@ Durante este sprint, el equipo se enfocó en el desarrollo de la primera base fu
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
+En este Sprint 2 se desarrolló la Web Application de Senit, enfocada en la administración hotelera. Se implementaron las principales vistas del sistema para que el usuario administrador pueda visualizar indicadores generales del hotel, gestionar información del establecimiento, administrar habitaciones, revisar estadías, controlar la suscripción y configurar datos básicos de la cuenta. Además, se validó la navegación entre los módulos principales desde la aplicación desplegada.
+
+<p align="center">
+  <img src="assets/sprint-2/execution/admin-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <br>
+  <i>Figura del panel principal de administración de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/recepcion-dashboard.jpeg" alt="Administration Dashboard de Senit" width="900"/>
+  <br>
+  <i>Figura del panel principal de recepcionista de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/hotel-registration.jpeg" alt="Vista de registro del hotel en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de registro y edición de datos del hotel.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/room-management.jpeg" alt="Vista de gestión de habitaciones en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión y registro de habitaciones.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/stays-management.jpeg" alt="Vista de gestión de estadías en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión de estadías de huéspedes.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/subscription-management.jpeg" alt="Vista de gestión de suscripción en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de gestión de suscripción del hotel.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-2/execution/settings.jpeg" alt="Vista de configuración de cuenta en Senit" width="900"/>
+  <br>
+  <i>Figura de la vista de configuración de cuenta y preferencias del sistema.</i>
+</p>
+
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 En este sprint no se realizó la implementación ni se documentó ningún Web Service. El alcance del Sprint 2 fue el desarrollo de la primera base funcional de la Web Application de Senit, priorizando la visualización de habitaciones, el flujo de Check In por horas, la consulta de los detalles de estadía, el Check Out, los filtros por estado y el soporte inicial de internacionalización.
