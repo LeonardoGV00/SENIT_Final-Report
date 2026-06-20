@@ -2311,6 +2311,18 @@ https://github.com/SENIT-Aplicaciones-Web/senit-backend
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
+Durante el Sprint 3, el equipo mantuvo una dinámica de trabajo colaborativa enfocada principalmente en el desarrollo del backend de Senit. En esta iteración se trabajó sobre el repositorio de Web Services, donde se registraron avances relacionados con la implementación inicial de la API REST, la documentación de endpoints mediante Swagger/OpenAPI, la corrección de rutas, el filtrado de datos por hotel y la configuración del despliegue en Render.
+
+GitHub fue utilizado como principal herramienta de control de versiones, permitiendo evidenciar los cambios realizados en el backend a través de commits. Estos registros muestran la evolución del repositorio durante el sprint y permiten identificar las actividades realizadas para consolidar la primera versión funcional de los servicios backend.
+
+Asimismo, el equipo mantuvo comunicación para revisar avances, validar el funcionamiento de los endpoints y asegurar que los servicios implementados respondieran a las necesidades de la Web Application. De esta manera, el Sprint 3 permitió avanzar en la integración técnica del sistema y dejar una base backend desplegada, documentada y preparada para su consumo desde la aplicación web.
+
+<p align="center">
+  <img src="assets/sprint-3/collaboration/backend-commits.jpeg" alt="Commits realizados en el repositorio backend durante el Sprint 3" width="900"/>
+  <br>
+  <i>Commits registrados en el repositorio senit-backend durante el Sprint 3.</i>
+</p>
+
 ## 5.3 Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
