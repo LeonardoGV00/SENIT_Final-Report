@@ -2122,7 +2122,7 @@ Durante este sprint se priorizó la implementación de servicios relacionados co
 
 #### 5.2.3.2. Aspect Leaders and Collaborators
 
-En esta sección se establecen los principales aspectos trabajados durante el Sprint 3, indicando qué integrante asumió el rol de líder y quiénes participaron como colaboradores. Para esta iteración, el equipo priorizó el desarrollo de los Web Services de Senit, por lo que los aspectos considerados fueron la planificación y documentación del sprint, la arquitectura inicial del backend, la implementación de los endpoints principales, la gestión de usuarios y autenticación, la gestión de suscripciones y la documentación de servicios mediante Swagger/OpenAPI.
+En esta parte se exponen los aspectos principales tratados en el Sprint 3, especificando el nombre del miembro que asumió el rol de líder y el de los miembros que participaron de colaboradores. En esta iteración, el equipo optó por poner el foco en la implantación de los Web Services de Senit, de modo que los puntos que fueron hechos en esta base fueron: planificación y documentación del sprint, la arquitectura inicial del backend, la puesta en funcionamiento de los principales endpoints, la gestión de usuarios y de la autenticación, la gestión de las suscripciones y la documentación de servicios a través de Swagger/OpenAPI.
 
 | Team Member (Last Name, First Name) | GitHub Username | Sprint Planning and Documentation Leader (L) / Collaborator (C) | Backend Architecture Leader (L) / Collaborator (C) | Hotel, Rooms and Stays API Leader (L) / Collaborator (C) | Users and Authentication API Leader (L) / Collaborator (C) | Subscriptions API and Swagger Documentation Leader (L) / Collaborator (C) |
 |---|---|---|---|---|---|---|
@@ -2134,6 +2134,32 @@ En esta sección se establecen los principales aspectos trabajados durante el Sp
 
 #### 5.2.3.3. Sprint Backlog 3
 
+El Sprint Backlog 3 contempla las Technical Stories priorizadas para construir la versión 1 de los Web Services de Senit. En esta iteración, el team decidió desarrollarla mediante una RESTful API, garantizando así el soporte a las operaciones principales que permitirían implementar las funcionalidades de gestión de hoteles, habitaciones, reservas, estadías, usuarios, autenticación o subscripciones. El sprint tuvo como finalidad, así pues, partir de una Web Application apoyado en datos simulados y moverse hacia una solución que incorpora servicios backend documentados y dispuestos para la integración.
+
+| Sprint # | Sprint 3 |  |  |  |  |  |  |
+|---|---|---|---|---|---|---|---|
+| **User Story** |  | **Work-Item / Task** |  |  |  |  |  |
+| Id | Title | Id | Title | Description | Estimation (Hours) | Assigned To | Status (To-do / In-Process / To-Review / Done) |
+| TS-02 | Gestión de hoteles por API REST | T3-01 | Implementación de endpoints de hoteles | Desarrollar los servicios para registrar, consultar y actualizar la información principal de los hoteles asociados a los administradores. | 5 | Montes Zamora, Edgar Alexander Mauricio | Done |
+| TS-03 | Gestión de habitaciones por API REST | T3-02 | Implementación de endpoints de habitaciones | Implementar los servicios para consultar, registrar, actualizar y eliminar habitaciones, considerando número, piso, tipo, capacidad, precio por hora, estado y hotel asociado. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-04 | Gestión de reservas por API REST | T3-03 | Implementación de endpoints de reservas | Desarrollar los endpoints para registrar, consultar, cancelar y finalizar reservas, incluyendo validaciones para evitar superposición de habitaciones. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-05 | Gestión de estadías por API REST | T3-04 | Implementación de endpoints de estadías | Implementar los servicios necesarios para registrar check-in, consultar estadías activas, actualizar estados y gestionar el check-out de huéspedes. | 6 | Garcia Villanueva, Leonardo Rafael | Done |
+| TS-09 | Autenticación por API REST | T3-05 | Implementación de autenticación de usuarios | Desarrollar el servicio de autenticación para validar credenciales y permitir el acceso según el rol correspondiente. | 5 | Lozano Leon, Richard Enrique | Done |
+| TS-10 | Gestión de usuarios por API REST | T3-06 | Implementación de endpoints de usuarios | Implementar los endpoints para registrar, consultar, editar y eliminar usuarios del personal y administradores del hotel. | 6 | Hurtado Faustino, Anghelo | Done |
+| TS-14 | Gestión de suscripción por API REST | T3-07 | Implementación de endpoints de suscripciones | Desarrollar los servicios para consultar y actualizar la suscripción activa del hotel, así como registrar pagos asociados. | 5 | Heredia Hoyos, Danitza Ivonne | Done |
+| TS-02, TS-03, TS-04, TS-05, TS-09, TS-10, TS-14 | Documentación de servicios backend | T3-08 | Documentación de endpoints con Swagger/OpenAPI | Configurar Swagger/OpenAPI para documentar los endpoints implementados, permitiendo visualizar rutas, verbos HTTP, parámetros y respuestas de prueba. | 4 | Garcia Villanueva, Leonardo Rafael | Done |
+
+**Board del Sprint 3 en Trello:**  
+Aquí se presenta el tablero utilizado para organizar y dar seguimiento a las tareas correspondientes al Sprint 3.
+
+<p align="center">
+  <img src="assets/Trello 3.jpeg" alt="Board del Sprint 3 en Trello" width="900"/>
+  <br>
+  <i>Figura del Board del Sprint 3 de Senit en Trello.</i>
+</p>
+
+**URL del board:**  
+https://trello.com/invite/b/6a35d8e872fb291b146afc97/ATTIf1506ff5d58679dd21c996830719b4427BA29BE0/senit-sprint-3
 
 #### 5.2.3.4. Development Evidence for Sprint Review
 
