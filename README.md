@@ -2279,6 +2279,34 @@ Los commits relacionados con la documentación de servicios y publicación de en
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Durante el Sprint 3 se realizó el despliegue del backend de Senit utilizando Render como plataforma de publicación. Este despliegue permitió que la RESTful API esté disponible en un entorno web operativo, facilitando la validación de los endpoints desde Swagger/OpenAPI y permitiendo su integración con la Web Application.
+
+Además, se configuró una base de datos MySQL en Aiven, la cual permite almacenar la información principal del sistema, como hoteles, usuarios, habitaciones, reservas, estadías, pagos y suscripciones. Esta configuración permitió conectar el backend desplegado con una base de datos en la nube, manteniendo la disponibilidad de los datos para las pruebas del sistema.
+
+**URL de despliegue del backend:**  
+https://senit-backend.onrender.com
+
+**URL de documentación Swagger:**  
+https://senit-backend.onrender.com/swagger/index.html
+
+**URL base de la API:**  
+https://senit-backend.onrender.com/api/v1
+
+**Repositorio de Web Services:**  
+https://github.com/SENIT-Aplicaciones-Web/senit-backend
+
+<p align="center">
+  <img src="assets/sprint-3/deployment/render-backend.jpeg" alt="Despliegue del backend de Senit en Render" width="900"/>
+  <br>
+  <i>Figura del despliegue del backend de Senit mediante Render.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/deployment/aiven-mysql.jpeg" alt="Base de datos MySQL de Senit en Aiven" width="900"/>
+  <br>
+  <i>Figura de la base de datos MySQL de Senit configurada en Aiven.</i>
+</p>
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint
 
 ## 5.3 Validation Interviews
