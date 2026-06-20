@@ -102,7 +102,8 @@
         - Anghelo Faustino Hurtado (U20241B331)<br>
         - Leonardo Rafael Garcia Villanueva (U20231H059)
       </td>
-      <td>-</td>
+      <td>-Se desarrolló e integró el Web Service de Senit y se desplegaron los tres componentes de la solución (Landing Page, Web Application y Web Service) y se documentó el Sprint 3 en el capítulo V<br>
+      </td>
     </tr>
     <tr>
       <td><strong>TB2</strong></td>
@@ -188,6 +189,7 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
       <td>
         <strong>AV 1:</strong> El equipo trabajó de manera conjunta con una comunicación constante a través de un grupo de WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, donde los miembros del equipo pudieron coordinar actividades, compartir avances y sugerencias. Además, durante estas reuniones, varios miembros del equipo participaron activamente preguntando, proponiendo ideas, y ayudando a corregir errores o mejorar avances de otros integrantes, con lo que el liderazgo fue compartido por todos los miembros del grupo.<br>
         <strong>TB:</strong> El equipo tuvo una comunicación constante a través de WhatsApp y reuniones virtuales vía Google Meet, donde se analizaron las observaciones recibidas en el entregable anterior y formas de poder solucionarlas. Durante estas reuniones, el equipo participó activamente proponiendo ideas para las correcciones y ayudándose mutuamente para mejorar el informe compartiendo el liderazgo entre los miembros del equipo, favoreciendo el avance en conjunto de esta entrega.
+        <strong>AV 2:</strong> Durante este avance, el equipo trabajó de manera conjunta en el desarrollo del sprint 3 y en la corrección de observaciones de entregas anteriores, manteniendo una comunicación constante principalmente mediante WhatsApp. A través de este medio, los integrantes pudieron compartir avances, coordinar actividades, recordar tareas pendientes y apoyar a los compañeros cuando surgían dudas o dificultades. Asimismo, el liderazgo fue compartido entre los miembros del grupo, ya que cada integrante contribuyó desde sus responsabilidades, proponiendo mejoras, comunicando el estado de sus actividades y colaborando para que el avance del proyecto se desarrollara de forma organizada.
       </td>
     </tr>
     <tr>
@@ -223,6 +225,7 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
       <td>
         <strong>AV 1:</strong> El equipo tuvo una comunicación constante mediante WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, en donde se organizaron y se planificaron las tareas de manera conjunta, estableciendo metas y fechas límite para cada actividad del proyecto. Durante las reuniones, todos los integrantes participaron de forma colaborativa ayudándose entre sí, resolviendo dudas y compartiendo ideas y sugerencias sobre sus partes del trabajo. Esto permitió avanzar de manera organizada y cumplir la mayoría de los objetivos establecidos dentro de los plazos acordados, aunque algunos no se completaron en su totalidad.<br>
         <strong>TB:</strong> En este avance el equipo continuó manteniendo una comunicación constante mediante WhatsApp y reuniones virtuales por Google Meet, donde se pudieron establecer y asignar en grupo las actividades para corregir las observaciones del entregable anterior, determinando los objetivos, tareas y tiempos de entrega para cada integrante. Asimismo, los miembros del equipo continuaron con una actitud colaborativa resolviendo dudas, compartiendo sugerencias y apoyándose mutuamente para cumplir con los objetivos planteados para este entregable.
+        <strong>AV 2:</strong> En este avance, el equipo continuó fortaleciendo un entorno colaborativo mediante una comunicación constante por WhatsApp, donde se coordinaron las actividades necesarias para desarrollar el sprint 3 y realizar las correcciones correspondientes a entregas pasadas. Los integrantes del grupo compartieron sus avances, resolvieron dudas, brindaron sugerencias y apoyaron la organización de las tareas pendientes, lo que permitió establecer metas de trabajo y dar seguimiento al cumplimiento de cada actividad. Gracias a esta coordinación y colaboración continua, el equipo pudo avanzar de manera más ordenada y cumplir con los objetivos planteados para esta etapa del proyecto.
       </td>
     </tr>
   </tbody>
