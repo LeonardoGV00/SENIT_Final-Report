@@ -102,7 +102,8 @@
         - Anghelo Faustino Hurtado (U20241B331)<br>
         - Leonardo Rafael Garcia Villanueva (U20231H059)
       </td>
-      <td>-</td>
+      <td>-Se desarrolló e integró el Web Service de Senit y se desplegaron los tres componentes de la solución (Landing Page, Web Application y Web Service) y se documentó el Sprint 3 en el capítulo V<br>
+      </td>
     </tr>
     <tr>
       <td><strong>TB2</strong></td>
@@ -188,6 +189,7 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
       <td>
         <strong>AV 1:</strong> El equipo trabajó de manera conjunta con una comunicación constante a través de un grupo de WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, donde los miembros del equipo pudieron coordinar actividades, compartir avances y sugerencias. Además, durante estas reuniones, varios miembros del equipo participaron activamente preguntando, proponiendo ideas, y ayudando a corregir errores o mejorar avances de otros integrantes, con lo que el liderazgo fue compartido por todos los miembros del grupo.<br>
         <strong>TB:</strong> El equipo tuvo una comunicación constante a través de WhatsApp y reuniones virtuales vía Google Meet, donde se analizaron las observaciones recibidas en el entregable anterior y formas de poder solucionarlas. Durante estas reuniones, el equipo participó activamente proponiendo ideas para las correcciones y ayudándose mutuamente para mejorar el informe compartiendo el liderazgo entre los miembros del equipo, favoreciendo el avance en conjunto de esta entrega.
+        <strong>AV 2:</strong> Durante este avance, el equipo trabajó de manera conjunta en el desarrollo del sprint 3 y en la corrección de observaciones de entregas anteriores, manteniendo una comunicación constante principalmente mediante WhatsApp. A través de este medio, los integrantes pudieron compartir avances, coordinar actividades, recordar tareas pendientes y apoyar a los compañeros cuando surgían dudas o dificultades. Asimismo, el liderazgo fue compartido entre los miembros del grupo, ya que cada integrante contribuyó desde sus responsabilidades, proponiendo mejoras, comunicando el estado de sus actividades y colaborando para que el avance del proyecto se desarrollara de forma organizada.
       </td>
     </tr>
     <tr>
@@ -223,6 +225,7 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
       <td>
         <strong>AV 1:</strong> El equipo tuvo una comunicación constante mediante WhatsApp y reuniones virtuales realizadas por Google Meet y Discord, en donde se organizaron y se planificaron las tareas de manera conjunta, estableciendo metas y fechas límite para cada actividad del proyecto. Durante las reuniones, todos los integrantes participaron de forma colaborativa ayudándose entre sí, resolviendo dudas y compartiendo ideas y sugerencias sobre sus partes del trabajo. Esto permitió avanzar de manera organizada y cumplir la mayoría de los objetivos establecidos dentro de los plazos acordados, aunque algunos no se completaron en su totalidad.<br>
         <strong>TB:</strong> En este avance el equipo continuó manteniendo una comunicación constante mediante WhatsApp y reuniones virtuales por Google Meet, donde se pudieron establecer y asignar en grupo las actividades para corregir las observaciones del entregable anterior, determinando los objetivos, tareas y tiempos de entrega para cada integrante. Asimismo, los miembros del equipo continuaron con una actitud colaborativa resolviendo dudas, compartiendo sugerencias y apoyándose mutuamente para cumplir con los objetivos planteados para este entregable.
+        <strong>AV 2:</strong> En este avance, el equipo continuó fortaleciendo un entorno colaborativo mediante una comunicación constante por WhatsApp, donde se coordinaron las actividades necesarias para desarrollar el sprint 3 y realizar las correcciones correspondientes a entregas pasadas. Los integrantes del grupo compartieron sus avances, resolvieron dudas, brindaron sugerencias y apoyaron la organización de las tareas pendientes, lo que permitió establecer metas de trabajo y dar seguimiento al cumplimiento de cada actividad. Gracias a esta coordinación y colaboración continua, el equipo pudo avanzar de manera más ordenada y cumplir con los objetivos planteados para esta etapa del proyecto.
       </td>
     </tr>
   </tbody>
@@ -2868,6 +2871,28 @@ La evaluación se divide en dos componentes principales:
 
 ### 5.3.2. Registro de Entrevistas
 
+#### Segmento 1: Personal Administrativo y Operativo de Hoteles y Moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/entrevista_lui.png" alt="Entrevista con Lui"/>
+  <br/><i>Evidencia de entrevista: Lui</i>
+</p>
+
+- **Nombre:** Lui
+- **Edad:** 24 años
+- **Cargo:** Recepcionista Principal
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241b331_upc_edu_pe/IQD9WzsSstr2RaP59R-gQYUKARXF240QcroB1AmzWRyy7yo?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=nt1cUt)
+- **Duracion:** 06:29
+- **Timing:** 00:00-06:29
+
+**Resumen de la entrevista:**
+<div align="justify">
+Tras interactuar con la Landing Page y probar el flujo de la Web App, Lui destacó que la interfaz de SENIT es limpia, rápida y muy intuitiva. Encontró que el proceso de registro de reservas es sumamente directo en comparación con los métodos manuales y obsoletos actuales. Resaltó especialmente el Rack Gráfico de habitaciones, ya que el uso de colores le permite identificar al instante la disponibilidad para agilizar la atención en mostrador. Como sugerencia de mejora principal, recomendó agregar una funcionalidad para registrar consumos extras (snacks o bebidas) y sumarlos directamente a la cuenta final durante el Check-out.
+</div>
+<br>
+
 #### Segmento 2: Dueños y propietarios de hoteles y moteles
 
 **Entrevista 1**
@@ -2887,6 +2912,26 @@ La evaluación se divide en dos componentes principales:
 **Resumen de la entrevista:**
 <div align="justify">
 Tras revisar la Landing Page y la Web App de Senit, Lucas opinó que la plataforma sí responde a las necesidades reales de un hotel o hostal y que las funciones de control de habitaciones, reservas y facturación le resultan especialmente útiles. Comentó que el sistema le daría una visión clara del estado del negocio y le permitiría dejar de depender del papel y la confianza en terceros. Como principal mejora, sugirió incorporar un módulo de reclamos para relacionar incidencias con el desempeño del personal y así tomar mejores decisiones administrativas.
+</div>
+<br>
+
+**Entrevista 2**
+<p align="center">
+  <img src="assets/interviews/entrevista_dario.png" alt="Entrevista con Dario"/>
+  <br/><i>Evidencia de entrevista: Dario Romero</i>
+</p>
+
+- **Nombre:** Dario
+- **Edad:** 28 años
+- **Cargo:** Dueño y Administrador
+- **Tipo de establecimiento:** Motel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241b331_upc_edu_pe/IQDZ_P6Pqw_QTJnqEz--W9w4AYCbHNFt6PLVwiCfy4F_U7M?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=C9ECON)
+- **Duracion:** 05:37
+- **Timing:** 00:00-05:37
+
+**Resumen de la entrevista:**
+<div align="justify">
+A partir de su revisión de SENIT, Dario consideró que la plataforma resuelve problemas graves de desorden administrativo que sufren muchos negocios del sector. Valoró enormemente la capacidad de supervisar el estado del hotel en tiempo real y a distancia, lo que le transmite profesionalismo y seguridad gerencial. Validó que el control estricto de las reservas y los tiempos de Check-in/Check-out es vital para evitar fugas de dinero por cobros manuales erróneos. Finalmente, propuso como mejoras clave poder exportar reportes de cierre de turno (caja) y tener un módulo de inventario integrado para gestionar las ventas en recepción.
 </div>
 <br>
 
