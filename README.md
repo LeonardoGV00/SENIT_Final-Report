@@ -2180,6 +2180,31 @@ Además, se trabajó en la configuración inicial del proyecto backend, la organ
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
+En este Sprint 3 se logró ejecutar la primera versión funcional del backend de Senit. La API REST desarrollada permite validar los servicios principales del sistema, como autenticación, gestión de hoteles, habitaciones, reservas, estadías, usuarios, pagos, consumos, suscripciones y tareas de limpieza. Además, se comprobó el funcionamiento de los endpoints mediante Swagger/OpenAPI, permitiendo revisar las rutas disponibles, los verbos HTTP, los parámetros y las respuestas generadas por el backend.
+
+A continuación, se presentan las evidencias de ejecución del backend desplegado y documentado mediante Swagger.
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-overview.jpeg" alt="Vista general de Swagger del backend de Senit" width="900"/>
+  <br>
+  <i>Figura de la vista general de Swagger del backend de Senit.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/authentication-response.jpeg" alt="Prueba de endpoint de autenticación en Swagger" width="900"/>
+  <br>
+  <i>Figura de la prueba de un endpoint de autenticación con respuesta exitosa desde Swagger.</i>
+</p>
+
+<p align="center">
+  <img src="assets/sprint-3/execution/swagger-endpoints-list.jpeg" alt="Lista de endpoints disponibles en Swagger" width="900"/>
+  <br>
+  <i>Figura de los endpoints disponibles para habitaciones, suscripciones y usuarios en Swagger.</i>
+</p>
+
+**Enlace del video de ejecución:**  
+https://youtu.be/IegwlSo5rnI
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
