@@ -176,9 +176,10 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
         <strong>AV2:</strong> Durante esta etapa se evidenció una participación orientada al liderazgo compartido, manteniendo comunicación con el equipo para organizar el avance del Sprint 3 y asegurar que la información del backend se integre de forma coherente con el resto del proyecto. Asimismo, se contribuyó a resolver dudas, ordenar ideas y apoyar la toma de decisiones grupales, promoviendo que el trabajo no dependa de una sola persona, sino de la coordinación entre los integrantes.
         <br>
         <br>
-        <strong>- Hurtado Faustino, Anghelo:</strong><br>
+        <strong>- Faustino Hurtado, Anghelo:</strong><br>
         <strong>AV 1:</strong> Participé en el desarrollo de componentes clave como el análisis y estructuración de información del sistema, manteniendo comunicación constante con el equipo y adaptando mis avances según los requerimientos del proyecto para asegurar coherencia con el trabajo grupal.<br>
-        <strong>TB:</strong> Durante esta etapa, reforcé mi capacidad de escucha activa y adaptabilidad, participando en las reuniones de coordinación para alinear las correcciones necesarias. Fomenté un entorno de apoyo mutuo al intercambiar retroalimentación constructiva con mis compañeros, lo que nos permitió unificar criterios técnicos y asegurar que las mejoras se integraran de manera fluida y coherente en el trabajo final.
+        <strong>TB:</strong> Durante esta etapa, reforcé mi capacidad de escucha activa y adaptabilidad, participando en las reuniones de coordinación para alinear las correcciones necesarias. Fomenté un entorno de apoyo mutuo al intercambiar retroalimentación constructiva con mis compañeros, lo que nos permitió unificar criterios técnicos y asegurar que las mejoras se integraran de manera fluida y coherente en el trabajo final.<br>
+        <strong>AV2:</strong> Promoví el liderazgo conjunto al proponer proactivamente la validación del proyecto mediante el diseño y ejecución de entrevistas de usuario con perfiles clave del sector. Además, compartí estos hallazgos con el equipo de desarrollo del backend para asegurar que la adición de nuevos endpoints en nuestra API respondiera directamente al feedback recogido, demostrando así una influencia constructiva en la toma de decisiones grupales.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
@@ -212,9 +213,10 @@ Entrega AV2: Para este avance se coordinó el avance y correcciones mediante com
         <strong>AV2:</strong> En este avance se mantuvo una actitud colaborativa y organizada, participando en la planificación de tareas del Sprint 3 y apoyando la coordinación del equipo para cumplir con los objetivos establecidos. También se promovió un ambiente de apoyo mediante la revisión conjunta de avances, la comunicación constante y la disposición para adaptar el trabajo según las necesidades del proyecto, contribuyendo a que el equipo avance de manera ordenada y cumpla con la entrega.
         <br>
         <br>
-        <strong>- Hurtado Faustino, Anghelo:</strong><br>
+        <strong>- Faustino Hurtado, Anghelo:</strong><br>
         <strong>AV 1:</strong> Planifiqué mis entregables dividiéndolos en hitos específicos, lo que me permitió cumplir con los plazos y adaptar mi trabajo según el feedback del equipo.<br>
-        <strong>TB:</strong> Reestructuré mi organización personal para responder de manera ágil a las observaciones recibidas, priorizando las tareas críticas para evitar cuellos de botella en la integración grupal. Al mantener una planificación basada en metas a corto plazo, logré gestionar mi tiempo de forma eficiente, cumpliendo puntualmente con los plazos internos acordados y facilitando el avance continuo del equipo.
+        <strong>TB:</strong> Reestructuré mi organización personal para responder de manera ágil a las observaciones recibidas, priorizando las tareas críticas para evitar cuellos de botella en la integración grupal. Al mantener una planificación basada en metas a corto plazo, logré gestionar mi tiempo de forma eficiente, cumpliendo puntualmente con los plazos internos acordados y facilitando el avance continuo del equipo.<br>
+        <strong>AV2:</strong> Asumí el compromiso de enriquecer la base de datos simulada y la documentación técnica de la API dentro de los plazos establecidos para el AV2. Para lograrlo, planifiqué la creación de los nuevos *endpoints* basándome en el análisis estructurado de las entrevistas, colaborando activamente con el resto del equipo en GitHub y resolviendo de forma autónoma los conflictos de código (Merge Conflicts), manteniendo así la integridad del repositorio grupal y apoyando un ambiente de desarrollo ágil y sin interrupciones.
         <br>
         <br>
         <strong>- Garcia Villanueva, Leonardo Rafael:</strong><br>
