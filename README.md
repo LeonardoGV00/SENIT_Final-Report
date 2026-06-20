@@ -922,6 +922,24 @@ Finalmente, el entrevistado resaltó que para mantener la rentabilidad del negoc
 
 Esta es una entrevista realizada a Santos Ignacio Aranda Ramírez, gerente de un hotel en Máncora, quien detalla su experiencia tras veinte años administrando el negocio. El propietario explica que actualmente supervisa la operatividad de forma remota mediante el uso de cámaras de seguridad y la plataforma Dropbox para revisar hojas de cálculo. Durante la conversación, subraya que los principales desafíos operativos incluyen la alta rotación de personal inexperto y el impacto negativo de los transportistas locales que desvían a los turistas. Aranda reconoce la importancia crítica del marketing digital en redes sociales y se muestra abierto a implementar nuevas herramientas tecnológicas que ofrezcan reportes en tiempo real. El objetivo principal de integrar estos sistemas sería mejorar la gestión de reservas y ajustar tarifas dinámicamente para mantenerse competitivo en el sector..
 
+**Entrevista 3**
+<p align="center">
+  <img src="assets/interviews/interview_segment_2_n4.png" alt="Entrevista con Lucas Alejandro Moreno Olivos
+"/>
+  <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
+</p>
+
+* **Nombre:** Lucas Alejandro Moreno Olivos
+* **Edad:** 29 años
+* **Residencia:** San Miguel, Lima
+* **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910803_upc_edu_pe/IQD84TLpnAVkSYpz8TN4Pcb1AUn1H1sreSvmp36xwsuMD28?e=loy0Sc)
+* **Duracion:** 11:06
+* **Timing:** 00:00 - 11:06
+
+**Resumen de la entrevista:**
+La entrevista fue realizada a Lucas Alejandro Moreno Olivos, dueño y administrador de un hotel en San Miguel. Actualmente gestiona las reservas, habitaciones e ingresos mediante registros manuales en cuadernos, complementados con cámaras de vigilancia para supervisión. Señala que los principales problemas se presentan durante temporadas de alta demanda, cuando aumenta la dificultad para controlar la disponibilidad de habitaciones y se incrementan los errores operativos.
+Asimismo, manifestó interés en implementar una solución tecnológica que le permita monitorear en tiempo real las reservas, habitaciones e ingresos, además de mejorar el control de caja y el seguimiento del desempeño del personal mediante reportes y registros de reclamos.
+
 ### 2.2. Análisis de entrevistas
 
 El análisis detallado de las interacciones con nuestro público objetivo revela patrones, necesidades y puntos de dolor que validan la urgencia de implementar **Senit** en el mercado. A continuación, se presenta la síntesis de hallazgos por cada segmento:
@@ -2428,6 +2446,28 @@ La evaluación se divide en dos componentes principales:
 - ¿Qué funcionalidades adicionales le gustaría incorporar al sistema?
 
 ### 5.3.2. Registro de Entrevistas
+
+#### Segmento 2: Dueños y propietarios de hoteles y moteles
+
+**Entrevista 1**
+<p align="center">
+  <img src="assets/interviews/interview_2_segment_2_n1.png" alt="Entrevista con Lucas Alejandro Moreno Olivos"/>
+  <br/><i>Evidencia de entrevista: Lucas Alejandro Moreno Olivos</i>
+</p>
+
+- **Nombre:** Lucas Alejandro Moreno Olivos
+- **Edad:** 29 años
+- **Cargo:** Dueño y Administrador
+- **Tipo de establecimiento:** Hotel
+- **Enlace de la entrevista:** [Ver grabación aquí](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910803_upc_edu_pe/IQCuEbSUQbUATY0ut2192wK_ARH2cwMN8vn4LQaYaupSROA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lHt9k5)
+- **Duracion:** 9:15
+- **Timing:** 00:00-09:15
+
+**Resumen de la entrevista:**
+<div align="justify">
+Tras revisar la Landing Page y la Web App de Senit, Lucas opinó que la plataforma sí responde a las necesidades reales de un hotel o hostal y que las funciones de control de habitaciones, reservas y facturación le resultan especialmente útiles. Comentó que el sistema le daría una visión clara del estado del negocio y le permitiría dejar de depender del papel y la confianza en terceros. Como principal mejora, sugirió incorporar un módulo de reclamos para relacionar incidencias con el desempeño del personal y así tomar mejores decisiones administrativas.
+</div>
+<br>
 
 ---
 
