@@ -2257,6 +2257,10 @@ Las convenciones de estilo que se aplicarán en cada uno de los lenguajes y tecn
 - Se evitarán ambigüedades en la redacción
 - Los comentarios se escribirán con **#** al inicio de la línea cuando sea necesario
 ### 5.1.4. Software Deployment Configuration.
+
+  <img src="assets/Landing5.jpg"/>
+  <br>
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 ### 5.2.1. Sprint 1
 
